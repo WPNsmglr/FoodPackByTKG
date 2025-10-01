@@ -43,3 +43,7 @@ scene=MountainPassCaveB
 item=GEAR_ForsakenSpiritsPlastic p=75.5475,56.8967,11.9371 r=6.6699,271.1664,93.6555 c=45
 item=GEAR_HoneyJar p=71.9417,56.4622,17.2936 r=0.0000,356.6808,0.0000 c=25
 item=GEAR_RandomMediumCannedFood p=18.7842,58.2009,-51.0007 r=6.6841,15.6664,0.3456 c=35
+
+scene=MountainPassBasement
+item=GEAR_HoneyJar p=0.5506,0.0070,-2.4465 r=-0.0000,71.9407,-0.0000 c=60
+item=GEAR_RandomSodaTall p=5.7703,2.3427,-0.0423 r=-0.0000,1.4729,270.0000 c=45
