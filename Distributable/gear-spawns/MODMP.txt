@@ -5,6 +5,7 @@ item=GEAR_RandomMediumCannedFood p=2320.2649,146.9057,707.6941 r=346.5590,209.51
 item=GEAR_RandomMediumCannedFood p=2052.8264,147.7084,525.4417 r=0.0000,349.9806,0.0000 c=35
 # Somewhere
 item=GEAR_MountainSodaPlastic p=1921.3005,53.1725,1218.9652 r=-0.0000,25.7264,90.0000 c=30
+item=GEAR_RandomLargeCannedFood p=1926.7235,52.3866,1240.8691 r=5.4379,144.5912,286.3926 c=40
 # Some place
 item=GEAR_RandomMediumCannedFood p=1744.3572,76.9178,2238.1638 r=359.9225,69.7048,359.8572 c=50
 # Outside Shed
@@ -19,3 +20,7 @@ item=GEAR_FlourBag p=-5.9680,0.5620,17.4885 r=-0.0000,60.1437,-0.0000 c=25
 item=GEAR_CocoaPackage p=3.6378,1.6429,0.6370 r=-0.0000,71.0504,-0.0000 c=50
 item=GEAR_SPAM p=-4.0257,1.4461,17.4940 r=-0.0000,120.1244,-0.0000 c=25
 item=GEAR_CheesePackage p=-5.2342,0.3316,15.1104 r=0.0000,269.3629,0.0000 c=75
+
+scene=ModStoneHouseMP
+item=GEAR_RandomMediumCannedFood p=-44.9505,3.8266,51.6527 r=270.0000,42.7258,0.0000 c=75
+item=GEAR_Jalapeno p=-46.5446,3.7553,49.6128 r=0.0000,245.6813,0.0000 c=50

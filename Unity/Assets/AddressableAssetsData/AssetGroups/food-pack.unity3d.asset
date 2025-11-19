@@ -593,6 +593,78 @@ MonoBehaviour:
     m_Address: GEAR_UnCookedApplePie
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 142b4fe6f846f6b4288b0830c9b7b9b3
+    m_Address: GEAR_NanaimoBar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 639fb65acb7cf7e40b70de11a1476c5a
+    m_Address: ico_GearItem__NanaimoBar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb311fa60f92f774e8a771e49f4b40dc
+    m_Address: ico_GearItem__EmptyPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96f3b8f2b021091488f92d09ac866f3a
+    m_Address: ico_GearItem__CannedChiliPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 034189dfd5e70c94aa2c34e1a7d07d3e
+    m_Address: ico_GearItem__CannedChiliPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5fda340595ab9ab498fb101bbe5f55b8
+    m_Address: ico_GearItem__CannedSpaghettiPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 950e17dfea4e4c147a79be94a583eb64
+    m_Address: ico_GearItem__CannedSpaghettiPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b776f6019d2065478a854b440107b03
+    m_Address: ico_GearItem__CornflakesPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3bc1ff1db32686548a04d51c3854b1dd
+    m_Address: ico_GearItem__CatFoodPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2bcb7a356c3706f448c959e95ebe69d9
+    m_Address: ico_GearItem__CannedStewPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00917945ae02bba459880586ddf5f4c1
+    m_Address: ico_GearItem__CannedStewPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f6211789635f8c4cb9e81a376b96138
+    m_Address: ico_GearItem__CocoaPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 478ef03820ca36944ac858e08e178a17
+    m_Address: ico_GearItem__CocoaPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd3469d94da52894c823ca0a25af0ac7
+    m_Address: ico_GearItem__CerealWholeGrainPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4cb88628f0fa5474799d71d5866f9814
+    m_Address: ico_GearItem__CerealWholeGrainPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 870103c0a689e7940a595e8afd2e1486
+    m_Address: ico_GearItem__CerealHoneyPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcbc50dd08a8f004989237dbaa3fc03e
+    m_Address: ico_GearItem__CerealHoneyPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f213f6fbdeb38184ea156f0eeafe5219
+    m_Address: ico_GearItem__CornflakesPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0907a13f08acc0c46b01afbfbf79f40b, type: 2}
   m_SchemaSet:

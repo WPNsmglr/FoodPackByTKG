@@ -467,6 +467,26 @@
         "Turkish": "Büyük bir çikolata barı. Şimdi o küçük destek için kahve ile yapıldı!",
         "Italian": "Una grossa barretta di cioccolato. Ora fatta con il caffè per quella piccola spinta!"
     },
+    "GAMEPLAY_NanaimoBar": {
+        "English": "Chocolate Bar",
+        "French (France)": "Barre de chocolat.",
+        "German": "Schokoladentafel",
+        "Russian": "Плитка шоколада",
+        "Japanese": "チョコレートバー",
+        "Spanish (Spain)": "Tableta de chocolate",
+        "Turkish": "Çikolata Bar",
+        "Italian": "Barretta di Cioccolato"
+    },
+    "GAMEPLAY_NanaimoBarDescription": {
+        "English": "A large bar of chocolate. Now made with coffee for that little boost!",
+        "French (France)": "Une grande barre de chocolate. Maintenant fait avec du café pour ce petit coup de pouce.",
+        "German": "Eine große Tafel Schokolade. Jetzt mit ein wenig Kaffee für den kleinen Kick!",
+        "Russian": "Большая плитка шоколада. Теперь с кофе для дополнительного заряда энергии!",
+        "Japanese": "大きなチョコレートバー。コーヒー入りなのでちょっとだけ元気が出る。",
+        "Spanish (Spain)": "Una barra de chocolate grande ¡Ahora con un poco de café para ese impulso extra!",
+        "Turkish": "Büyük bir çikolata barı. Şimdi o küçük destek için kahve ile yapıldı!",
+        "Italian": "Una grossa barretta di cioccolato. Ora fatta con il caffè per quella piccola spinta!"
+    },
     "GAMEPLAY_ModSyrup": {
         "English": "Maple Honey Syrup",
         "French (France)": "Sirop d'erable avec du miel.",
@@ -965,100 +985,136 @@
 	"Italian": "Un grande pacco di cioccolata calda"
     },
 	"GAMEPLAY_CocoaPackage2": {
-        "English": "Small Hot Cocoa Package",
-		"Russian": "Маленькая упаковка какао",
+    "English": "Small Hot Cocoa Package",
+	"Russian": "Маленькая упаковка какао",
 	"Turkish": "Küçük Sıcak Kakao Paketi",
 	"Italian": "Piccolo Pacco di Cioccolata Calda"
     },
     "GAMEPLAY_CocoaPackage2Description": {
-        "English": "A small package of Hot Cocoa.",
-		"Russian": "Маленькая упаковка горячего какао.",
+    "English": "A small package of Hot Cocoa.",
+	"Russian": "Маленькая упаковка горячего какао.",
 	"Turkish": "Küçük bir paket sıcak kakao.",
 	"Italian": "Un piccolo pacco di cioccolata calda."
     },
 	"GAMEPLAY_CerealHoneyPackage": {
-        "English": "Large Cereal Honey Package",
-		"Russian": "Большая упаковка хлопьев с медом",
+    "English": "Large Cereal Honey Package",
+    "Russian": "Большая упаковка хлопьев с медом",
 	"Turkish": "Büyük ballı tahıl paketi",
 	"Italian": "Grande Pacco di Cereali al Miele"
     },
     "GAMEPLAY_CerealHoneyPackageDescription": {
-        "English": "A large package of Cereal Honey.",
-		"Russian": "Большая упаковка хлопьев с медом.",
+    "English": "A large package of Cereal Honey.",
+	"Russian": "Большая упаковка хлопьев с медом.",
 	"Turkish": "Büyük bir paket ballı tahıl.",
 	"Italian": "Un grande pacco di cereali al miele"
     },
 	"GAMEPLAY_CerealWholeGrainPackage": {
-        "English": "Large Cereal Whole Grain",
-		"Russian": "Большая упаковка хлопьев",
+    "English": "Large Cereal Whole Grain",
+    "Russian": "Большая упаковка хлопьев",
 	"Turkish": "Büyük Paket Tahıl Gevreği",
 	"Italian": "Grande Pacco di Cereali Integrali"
     },
     "GAMEPLAY_CerealWholeGrainPackageDescription": {
-        "English": "A large package of Cereal Whole Grain.",
-		"Russian": "Большая упаковка хлопьев из цельного зерна.",
+    "English": "A large package of Cereal Whole Grain.",
+	"Russian": "Большая упаковка хлопьев из цельного зерна.",
 	"Turkish": " Büyük bir paket tam tahıl gevreği.",
 	"Italian": "Un grande pacco di cereali integrali"
     },
 	"GAMEPLAY_CornflakesPackage": {
-        "English": "Large Cornflakes Package",
-		"Russian": "Большая упаковка кукурузных хлопьев",
+    "English": "Large Cornflakes Package",
+	"Russian": "Большая упаковка кукурузных хлопьев",
 	"Turkish": "Büyük Mısır Gevreği Paketi",
 	"Italian": "Grande pacco di Cornflakes"
     },
     "GAMEPLAY_CornflakesPackageDescription": {
-        "English": "A large package of Cornflakes.",
-		"Russian": "Большая упаковка кукурузных хлопьев.",
+    "English": "A large package of Cornflakes.",
+	"Russian": "Большая упаковка кукурузных хлопьев.",
 	"Turkish": "Büyük bir paket mısır gevreği.",
 	"Italian": "Un grande pacco di Cornflakes"
     },
 	"GAMEPLAY_EmptyPackage": {
-        "English": "Empty Package",
-		"Russian": "Пустая упаковка",
+    "English": "Empty Package",
+	"Russian": "Пустая упаковка",
 	"Turkish": "Boş Paket",
 	"Italian": "Pacco Vuoto"
     },
     "GAMEPLAY_EmptyPackageDescription": {
-        "English": "A small empty package. Can be used to package with other canned food or cereal boxes.",
-		"Russian": "Небольшая пустая упаковка. Можно использовать для упаковки других консервов или хлопьев в коробки.",
+    "English": "A small empty package. Can be used to package with other canned food or cereal boxes.",
+	"Russian": "Небольшая пустая упаковка. Можно использовать для упаковки других консервов или хлопьев в коробки.",
 	"Turkish": "Küçük boş bir paket. Diğer konserve veya tahıl kutuları ile paketlemek için kullanılabilir",
 	"Italian": "Un piccolo pacco vuoto. Può essere usato per impacchettare cibo in scatola o scatole di cereali"
     },
 	"GAMEPLAY_CerealHoneyPackage2": {
-        "English": "Small Cereal Honey Package",
-		"Russian": "Маленькая упаковка медовых хлопьев",
+    "English": "Small Cereal Honey Package",
+	"Russian": "Маленькая упаковка медовых хлопьев",
 	"Turkish": "Küçük Ballı Tahıl Paketi",
 	"Italian": "Piccolo Pacco di Cereali al Miele"
     },
     "GAMEPLAY_CerealHoneyPackage2Description": {
-        "English": "A small package of Cereal Honey.",
-		"Russian": "Маленькая упаковка медовых хлопьев.",
+    "English": "A small package of Cereal Honey.",
+	"Russian": "Маленькая упаковка медовых хлопьев.",
 	"Turkish": "Küçük bir paket ballı tahıl.",
 	"Italian": "Un piccolo pacco di cereali al miele"
     },
 	"GAMEPLAY_CerealWholeGrainPackage2": {
-        "English": "Small Cereal Whole Grain",
-		"Russian": "Маленькая упаковка хлопьев",
+    "English": "Small Cereal Whole Grain",
+	"Russian": "Маленькая упаковка хлопьев",
 	"Turkish": "Küçük Paket Tahıl Gevreği",
 	"Italian": "Piccolo Pacco di Cereali Integrali"
     },
     "GAMEPLAY_CerealWholeGrainPackage2Description": {
-        "English": "A small package of Cereal Whole Grain.",
-		"Russian": "Маленькая упаковка хлопьев из цельного зерна.",
+    "English": "A small package of Cereal Whole Grain.",
+	"Russian": "Маленькая упаковка хлопьев из цельного зерна.",
 	"Turkish": "Küçük bir paket tam tahıllı gevrek",
 	"Italian": "Un piccolo pacco di cereali integrali"
     },
 	"GAMEPLAY_CornflakesPackage2": {
-        "English": "Small Cornflakes Package",
-		"Russian": "Маленькая упаковка кукурузных хлопьев",
+    "English": "Small Cornflakes Package",
+	"Russian": "Маленькая упаковка кукурузных хлопьев",
 	"Turkish": "Küçük Mısır Gevreği Paketi",
 	"Italian": "Piccolo Pacco di Cornflakes"
     },
     "GAMEPLAY_CornflakesPackage2Description": {
-        "English": "A small package of Cornflakes.",
-		"Russian": "Маленькая упаковка кукурузных хлопьев.",
+    "English": "A small package of Cornflakes.",
+	"Russian": "Маленькая упаковка кукурузных хлопьев.",
 	"Turkish": "Küçük bir paket mısır gevreği",
 	"Italian": "Un piccolo pacco di Cornflakes"
+    },
+	"GAMEPLAY_CannedStewPackage": {
+    "English": "Large Canned Stews Package"
+    },
+    "GAMEPLAY_CannedStewPackageDescription": {
+    "English": "A large package of Canned Stews."
+    },
+	"GAMEPLAY_CannedStewPackage2": {
+    "English": "Small Canned Stews Package"
+    },
+    "GAMEPLAY_CannedStewPackage2Description": {
+    "English": "A small package of Canned Stews."
+    },
+	"GAMEPLAY_CannedSpaghettiPackage": {
+    "English": "Large Canned Spaghetti Package"
+    },
+    "GAMEPLAY_CannedSpaghettiPackageDescription": {
+    "English": "A large package of Canned Spaghetti."
+    },
+	"GAMEPLAY_CannedSpaghettiPackage2": {
+    "English": "Small Canned Spaghetti Package"
+    },
+    "GAMEPLAY_CannedSpaghettiPackage2Description": {
+    "English": "A small package of Canned Spaghetti."
+    },
+	"GAMEPLAY_CannedChiliPackage": {
+    "English": "Large Canned Chili Package"
+    },
+    "GAMEPLAY_CannedChiliPackageDescription": {
+    "English": "A large package of Canned Chili."
+    },
+	"GAMEPLAY_CannedChiliPackage2": {
+    "English": "Small Canned Chili Package"
+    },
+    "GAMEPLAY_CannedChiliPackage2Description": {
+    "English": "A small package of Canned Chili."
     },
 	"GAMEPLAY_RandomLargeCannedFood": {
         "English": "Random Large Canned Food",
