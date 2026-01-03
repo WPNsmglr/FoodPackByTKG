@@ -28,7 +28,7 @@
                             "BurntMinutes" : 15,
                             "Type" : "Liquid",
                             "CookingAudio" : "Play_BoilingLiquidThickHeavy",
-                            "StartCookingAudio" : "Play_AddSlopToPot"
+                            "StartCookingAudio" : "Play_AddSlopToPot",
 
                             "DaysToDecayOutdoors" : 425,
                             "DaysToDecayIndoors" : 175,

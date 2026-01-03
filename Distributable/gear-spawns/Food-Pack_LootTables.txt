@@ -186,6 +186,7 @@ item=cornflakes w=1
 item=modChocolateBar w=1
 item=CupNoodles w=2
 item=SoyRamen w=2
+item=NanaimoBar w=3
 
 #-------------------------
 loottable=CargoFoodRareA
