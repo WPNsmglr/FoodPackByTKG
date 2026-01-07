@@ -468,24 +468,10 @@
         "Italian": "Una grossa barretta di cioccolato. Ora fatta con il caffè per quella piccola spinta!"
     },
     "GAMEPLAY_NanaimoBar": {
-        "English": "Chocolate Bar",
-        "French (France)": "Barre de chocolat.",
-        "German": "Schokoladentafel",
-        "Russian": "Плитка шоколада",
-        "Japanese": "チョコレートバー",
-        "Spanish (Spain)": "Tableta de chocolate",
-        "Turkish": "Çikolata Bar",
-        "Italian": "Barretta di Cioccolato"
+        "English": "Nanaimo Bar"
     },
     "GAMEPLAY_NanaimoBarDescription": {
-        "English": "A large bar of chocolate. Now made with coffee for that little boost!",
-        "French (France)": "Une grande barre de chocolate. Maintenant fait avec du café pour ce petit coup de pouce.",
-        "German": "Eine große Tafel Schokolade. Jetzt mit ein wenig Kaffee für den kleinen Kick!",
-        "Russian": "Большая плитка шоколада. Теперь с кофе для дополнительного заряда энергии!",
-        "Japanese": "大きなチョコレートバー。コーヒー入りなのでちょっとだけ元気が出る。",
-        "Spanish (Spain)": "Una barra de chocolate grande ¡Ahora con un poco de café para ese impulso extra!",
-        "Turkish": "Büyük bir çikolata barı. Şimdi o küçük destek için kahve ile yapıldı!",
-        "Italian": "Una grossa barretta di cioccolato. Ora fatta con il caffè per quella piccola spinta!"
+        "English": "A large bar of Nanaimo bar. Very calorie dense."
     },
     "GAMEPLAY_ModSyrup": {
         "English": "Maple Honey Syrup",
