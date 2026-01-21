@@ -64,6 +64,7 @@ item=GEAR_AuroraEnergyDrink p=-61.2793,-29.9643,-59.6106 r=-0.0000,84.1225,-0.00
 item=GEAR_SPAM p=86.1039,2.6417,112.9416 r=0.3146,283.0181,0.1833 c=35
 item=GEAR_HotCocoaCup p=80.3071,9.3554,43.7566 r=0.0000,326.9254,0.0000 c=25
 item=GEAR_RandomMediumCannedFood p=-266.7205,33.6292,386.0983 r=87.8634,122.5007,105.6379 c=70
+item=GEAR_NanaimoBar p=80.0572,9.3619,43.8839 r=-0.0000,45.8497,-0.0000 c=100
 
 # Concectrator
 scene=MineConcentratorBuilding

@@ -12,7 +12,7 @@ item=GEAR_RandomMediumCannedFood p=1744.3572,76.9178,2238.1638 r=359.9225,69.704
 item=GEAR_ForsakenSpiritsPlastic p=1932.9032,147.2021,473.6381 r=-0.0000,18.7578,-0.0000 c=45
 item=GEAR_ForsakenSpirits p=1933.2007,147.6359,474.2028 r=90.0000,72.7582,0.0000 c=30
 
-scene=ModMountainPass_TrainShed
+scene=ModTrainShed
 item=GEAR_DryMilkPacket p=-2.4169,1.3861,2.8726 r=0.0000,225.8379,0.0000 c=85
 item=GEAR_ModChocolateBar p=-6.5990,1.6333,11.5472 r=0.0000,244.5526,0.0000 c=45
 item=GEAR_RedWineBottle p=-6.6009,0.5187,10.5848 r=-0.0000,35.5235,-0.0000 c=10

@@ -106,6 +106,7 @@ item=GEAR_ModChocolateBar p=-8.8653,4.3267,-3.8235 r=1.4255,157.6407,6.0568 c=20
 item=GEAR_SoyRamen p=0.1740,0.2304,8.9511 r=-0.0000,9.4632,-0.0000 c=60
 item=GEAR_CupNoodles p=0.3468,0.2304,8.9300 r=359.7854,340.6431,356.2567 c=60
 item=GEAR_CheesePackage p=3.2100,0.9688,6.1763 r=0.0000,311.9335,0.0000 c=75
+item=GEAR_NanaimoBar p=-8.7120,3.5365,-3.9585 r=-0.0000,60.9505,-0.0000 c=35
 
 scene=FarmhouseABasement
 item=GEAR_RandomMediumCannedFood p=4.8422,1.6383,-8.6103 r=0.0000,274.8200,0.0000 c=100
@@ -158,6 +159,7 @@ item=GEAR_EmptyPackage p=1.7025,1.9253,-4.0718 r=-0.0000,35.4932,-0.0000 c=100
 item=GEAR_CheesePackage p=-2.3987,0.8200,-3.2729 r=0.0000,269.1281,0.0000 c=75
 item=GEAR_CheesePackage p=-2.5722,0.8200,-3.3018 r=-0.0000,159.0224,-0.0000 c=75
 item=GEAR_CheesePackage p=-2.4355,0.8300,-3.1326 r=0.0000,303.0534,0.0000 c=50
+item=GEAR_NanaimoBar p=-1.4532,1.0519,-7.6682 r=0.0000,340.9180,0.0000 c=50
 
 scene=RadioControlHut
 item=GEAR_RandomSodaTall p=-3.7868,1.0544,3.2801 r=0,352.1902,0 c=45

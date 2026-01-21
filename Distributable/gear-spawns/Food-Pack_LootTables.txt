@@ -186,7 +186,6 @@ item=cornflakes w=1
 item=modChocolateBar w=1
 item=CupNoodles w=2
 item=SoyRamen w=2
-item=NanaimoBar w=3
 
 #-------------------------
 loottable=CargoFoodRareA
@@ -200,6 +199,7 @@ loottable=CargoFoodRareB
 item=modSyrup w=5
 item=HoneyJar w=3
 item=CerealHoney w=2
+item=NanaimoBar w=6
 
 #-------------------------
 loottable=CargoFoodRareC
