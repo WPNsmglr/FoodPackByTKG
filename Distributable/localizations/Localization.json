@@ -354,7 +354,7 @@
         "German": "Leben am Limit. Offizielles Getränk der The Long-Entwickler!",
         "Russian": "Живем на грани. Официальный напиток Долгой Разработки.",
         "Japanese": "崖っぷちよりはまし。The Long Developmentの公式飲料です！",
-		"Traditional Chinese": "活在極限，生命更精彩。The Long Development 的官方指定飲品！",
+		"Traditional Chinese": "挑戰極限，精彩人生。The Long Development 的官方指定飲品！",
         "Spanish (Spain)": "La vida es mejor al límite ¡Bebida oficial de El Largo Desarrollo!",
         "Turkish": "Hayat sınırda daha iyidir. The Long Development'ın resmi içeceği!",
         "Italian": "La vita è meglio al limite. Bevanda ufficiale di The Long Development!"
@@ -404,7 +404,7 @@
         "German": "Ein Päckchen für die Zubereitung von heißem Kakao. Jetzt mit Marshmallows.",
         "Russian": "Пакетик какао. Теперь с зефирками.",
         "Japanese": "ホットココア用ココアのパック。マシュマロ入り。",
-		"Traditional Chinese": "用於製作熱可可的沖泡包。添加了棉花糖。",
+		"Traditional Chinese": "用於製作熱可可的沖泡包。加了棉花糖。",
         "Spanish (Spain)": "Un paquete usado para hacer chocolate caliente. Ahora con malvaviscos.",
         "Turkish": "Sıcak kakao yapmak için kullanılan bir paket. Şimdi marshmallow ile.",
         "Italian": "Una bustina usata per fare la cioccolata calda. Ora con marshmallows."
@@ -420,7 +420,7 @@
         "Italian": "Scatola di Cioccolata Calda",
         "Simplified Chinese": "热可可盒",
         "Japanese": "ホットココアの箱",
-		"Traditional Chinese": "盒裝熱可可包",
+		"Traditional Chinese": "一盒的熱可可包",
         "Spanish (Spain)": "Caja de cacao en polvo"
     },
     "GAMEPLAY_HotCocoaBoxDescription": {
@@ -429,7 +429,7 @@
         "German": "Eine Box voller Päckchen um heißen Kakao zuzubereiten. Jetzt mit Marshmallows.",
         "Russian": "Коробка с пакетиками для заварки какао. Теперь с зефирками.",
         "Japanese": "ホットココア用のパックが詰まった箱。マシュマロ入り。",
-		"Traditional Chinese": "盒內裝滿了用於製作熱可可的沖泡包。添加了棉花糖。",
+		"Traditional Chinese": "盒內裝滿了用於製作熱可可的沖泡包。加了棉花糖。",
         "Spanish (Spain)": "Una caja llena de paquetes para hacer chocolate caliente. Ahora con malvaviscos.",
         "Turkish": "Sıcak kakao yapmak için kullanılan paketlerle dolu bir kutu. Şimdi marshmallow ile",
         "Italian": "Una scatola piena di bustine usate per fare la cioccolata calda. Ora con marshmallows."
@@ -445,7 +445,7 @@
         "Italian": "Bustina di Cioccolato in Polvere.",
         "Simplified Chinese": "热可可包",
         "Japanese": "ホットココアのパック",
-		"Traditional Chinese": "盒裝熱可可包",
+		"Traditional Chinese": "一包熱可可包",
         "Spanish (Spain)": "paquete"
     },
     "GAMEPLAY_HotCocoaBoxStackMultiple": {
@@ -459,6 +459,7 @@
         "Italian": "Bustine di Cioccolata in Polvere.",
         "Simplified Chinese": "热可可包",
         "Japanese": "ホットココアのパック",
+		"Traditional Chinese": "數包熱可可包",
         "Spanish (Spain)": "paquetes."
     },
     "GAMEPLAY_HotCocoaCup": {
@@ -472,6 +473,7 @@
         "Italian": "Tazza di Cioccolata Calda.",
         "Simplified Chinese": "一杯热可可",
         "Japanese": "ホットココアのカップ",
+		"Traditional Chinese": "一杯熱可可。，",
         "Spanish (Spain)": "Taza de chocolate caliente."
     },
     "GAMEPLAY_HotCocoaCupDescription": {
@@ -480,6 +482,7 @@
         "German": "Eine köstliche Tasse deines Lieblingskakaos. Jetzt mit Marshmallows.",
         "Russian": "Вкусная кружка твоего любимого какао. Теперь с зефирками.",
         "Japanese": "あなたも大好きな美味しいホットココアのカップ。マシュマロ入り。",
+		"Traditional Chinese": "一杯你最喜歡的美味熱可可，加了棉花糖。",
         "Spanish (Spain)": "Una deliciosa taza de tu chocolate caliente favorito. Ahora con malvaviscos.",
         "Turkish": "En sevdiğiniz sıcak kakaodan lezzetli bir fincan. Şimdi marshmallow ile.",
         "Italian": "Una deliziosa tazza riempita con la tua cioccolata calda preferita. Ora con marshmallows."
@@ -490,6 +493,7 @@
         "German": "Schokoladentafel",
         "Russian": "Плитка шоколада",
         "Japanese": "チョコレートバー",
+		"Traditional Chinese": "巧克力",
         "Spanish (Spain)": "Tableta de chocolate",
         "Turkish": "Çikolata Bar",
         "Italian": "Barretta di Cioccolato"
@@ -500,15 +504,18 @@
         "German": "Eine große Tafel Schokolade. Jetzt mit ein wenig Kaffee für den kleinen Kick!",
         "Russian": "Большая плитка шоколада. Теперь с кофе для дополнительного заряда энергии!",
         "Japanese": "大きなチョコレートバー。コーヒー入りなのでちょっとだけ元気が出る。",
+		"Traditional Chinese": "一大塊巧克力。配方中加了咖啡，有助你提振精神！",
         "Spanish (Spain)": "Una barra de chocolate grande ¡Ahora con un poco de café para ese impulso extra!",
         "Turkish": "Büyük bir çikolata barı. Şimdi o küçük destek için kahve ile yapıldı!",
         "Italian": "Una grossa barretta di cioccolato. Ora fatta con il caffè per quella piccola spinta!"
     },
     "GAMEPLAY_NanaimoBar": {
         "English": "Nanaimo Bar"
+		"Traditional Chinese": "納奈莫條",
     },
     "GAMEPLAY_NanaimoBarDescription": {
         "English": "A large bar of Nanaimo bar. Very calorie dense."
+		"Traditional Chinese": "一種來自加拿大西岸城市納奈莫的糕點。熱量極高。"
     },
     "GAMEPLAY_ModSyrup": {
         "English": "Maple Honey Syrup",
@@ -516,6 +523,7 @@
         "German": "Ahorn-Honig-Sirup",
         "Russian": "Кленовый сироп",
         "Japanese": "ハチミツ入りメープルシロップ",
+		"Traditional Chinese": "蜂蜜楓糖漿",
         "Spanish (Spain)": "Sirope de arce con miel",
         "Turkish": "Akçaağaç Balı Şurubu",
         "Italian": "Sciroppo d'Acero con Miele"
@@ -526,6 +534,7 @@
         "German": "Nicht der normale Sirup. Angereichert mit Honiggeschmack!\nAhorn-Honig-Sirup wird nie verderben!",
         "Russian": "Не просто сироп, а сироп с медом. \nКленовый сироп никогда не портится!",
         "Japanese": "普通のメープルシロップとは違います。ハチミツの風味が効いています！ \nメープルシロップは決して腐りません！",
+		"Traditional Chinese": "這不是普通的楓糖漿，而是融入了蜂蜜風味！\n楓糖漿永遠不會變質！"",
         "Spanish (Spain)": "No es tu sirope corriente. Enriquecido con miel \n¡Nunca caducará!",
         "Turkish": "Normal şurup değil. Bal aromalı!\nAkçaağaç şurubu asla bozulmaz!",
         "Italian": "Non è un sciroppo regolare. Infuso con sapori di miele!\nSciroppo d'acero non andrà mai male!"
@@ -536,6 +545,7 @@
         "German": "Bergapfelwein-Soda",
         "Russian": "Горная газировка-сидр",
         "Japanese": "マウンテンソーダ",
+		"Traditional Chinese": "巔峰西打",
         "Spanish (Spain)": "Sidra Mountain",
         "Turkish": "Maden Suyu",
         "Italian": "Soda di Cidro della Montagna"
@@ -551,6 +561,7 @@
         "Italian": "Fatta in montagna. Fresca di montagna.",
         "Simplified Chinese": "山造。山鲜。",
         "Japanese": "山で作られ新鮮そのもの。",
+		"Traditional Chinese": "巔峰製造。巔峰味道。",
         "Spanish (Spain)": "Producto de montaña. Frescor de montaña."
     },
     "GAMEPLAY_RiceCooked": {
@@ -564,6 +575,7 @@
         "Italian": "Riso a Chicco Lungo (Cotto)",
         "Simplified Chinese": "长粒米（熟）",
         "Japanese": "白飯（長粒種）",
+		"Traditional Chinese": "長粒米（熟）",
         "Spanish (Spain)": "Arroz largo (Cocido)"
     },
     "GAMEPLAY_RiceCookedDescription": {
@@ -572,6 +584,7 @@
         "German": "Reiner, gekochter, weißer Reis. Eher langweilig, liefert aber gute Kalorien.",
         "Russian": "Приготовленный рис - довольно пресный, но калорийный.",
         "Japanese": "交じりっけなしの白飯、味気ない -- でもカロリーは十分だ。",
+		"Traditional Chinese": "白水煮的米飯。雖然沒啥味道，但熱量管夠。耐餓又經典。",
         "Spanish (Spain)": "Arroz blanco cocido. Un poco insipido, pero aporta muchas calorías.",
         "Turkish": "Saf pişmiş beyaz pirinç, biraz sıkıcı ama iyi kalori sağlıyor.",
         "Italian": "Riso bianco cotto in acqua -- piuttosto noioso ma fornisce una buona quantità di calorie. Nutriente e senza tempo."
@@ -587,6 +600,7 @@
         "Italian": "Riso a Chicco Lungo (Crudo)",
         "Simplified Chinese": "长粒米（生）",
         "Japanese": "白米（長粒種）",
+		"Traditional Chinese": "長粒米（生）",
         "Spanish (Spain)": "Arroz largo (Crudo)"
     },
     "GAMEPLAY_RiceRawDescription": {
@@ -595,6 +609,7 @@
         "German": "Eines der meistkonsumierten Lebensmittel der Welt.\nMuss gekocht werden, bevor es gegessen werden kann: ein Teil Reis mit zwei Teilen Wasser mischen.",
         "Russian": "Один из самых популярных продуктов в мире. \nДля употребления нужно приготовить: рис и вода 1 к 2.",
         "Japanese": "世界中で幅広く消費されている食品の一つ。 \n食べる前に水を加えて調理する必要があります。",
+		"Traditional Chinese": "全世界消耗量最大的主食之一。\n吃之前得先煮熟才行：比例是一份米配一份水。",
         "Spanish (Spain)": "Una de las comidas más consumidas en el planeta. \nNecesita cocerse antes de comerlo: Una parte de arroz, dos de agua.",
         "Turkish": "Dünyada en çok tüketilen gıdalardan biri. Yenilebilmesi için önce pişirilmesi gerekiyor: bir ölçü pirinç ve iki ölçü su.",
         "Italian": "Uno dei cibi più ampiamente consumato nel mondo.\nBisogna cuocerlo prima di poterlo mangiare: una parte riso e due parti acqua."
@@ -605,6 +620,7 @@
         "German": "BLAM",
         "Russian": "БЛЭМ",
         "Japanese": "スパム缶",
+		"Traditional Chinese": "午餐肉罐頭",
         "Spanish (Spain)": "BANG",
         "Turkish": "BLAM",
         "Italian": "BLAM"
@@ -615,6 +631,7 @@
         "German": "Zerkleinerter, gekochter Schinken in der Dose. Günstig und im Notfall ausreichend.",
         "Russian": "Порезанная консервированная ветчина. Дешево, просто, пойдет при необходимости.",
         "Japanese": "缶詰のハム。安っぽくて単純な食品だけど、いざという時は役に立つ。",
+		"Traditional Chinese": "",
         "Spanish (Spain)": "Jamón cocido enlatado. Barato, simple, is servirá en un apuro.",
         "Turkish": "Rendelenmiş konserve jambon. Acil bir durumuda vücuda yeterli besin sağlar.",
         "Italian": "Prosciutto tagliato e conservato in lattina. Un gusto acquisito ma economico, semplice e andrà bene in caso di necessità."
