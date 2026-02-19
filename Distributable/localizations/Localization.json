@@ -5,6 +5,7 @@
         "Russian": "Энергетический напиток Аврора",
         "French (France)": "Boisson énergisante Aurore",
         "Japanese": "オーロラエナジードリンク",
+		"Traditional Chinese": "極光能量飲料",
         "Spanish (Spain)": "Bebida energética Aurora",
         "Turkish": "Kuzey Işıkları Enerji İçeceği",
         "Italian": "Bevanda Energetica Aurora"
@@ -18,8 +19,9 @@
         "Turkish": "Seni birkaç saat daha uyanık tutabilir ama bu seni uçurmaz.",
         "Korean": "당신에게 날개를 달아줄 순 없지만, 몇 시간정도 깨어있는덴 도움이 됩니다.",
         "Italian": "Potrebbe tenerti sveglio qualche ora in più, ma non ti farà crescere le ali.",
-        "Simplified Chinese": "可能会让你多睡几个小时，但这不会让你飞起来。",
+        "Simplified Chinese": "可能会让你多清醒几个小时，但这不会让你飞起来。",
         "Japanese": "数時間ほど目が冴えるけど、翼は授けてくれません。",
+		"Traditional Chinese": "這或許能讓你多清醒幾個小時，但並不會給你一對翅膀。",
         "Spanish (Spain)": "Tal vez te mantenga despierto durante unas horas más, pero no te hará volar."
     },
     "GAMEPLAY_BeerBottle": {
@@ -33,6 +35,7 @@
         "Italian": "Birra",
         "Simplified Chinese": "啤酒",
         "Japanese": "ビール",
+		"Traditional Chinese": "啤酒",
         "Spanish (Spain)": "Cerveza"
     },
     "GAMEPLAY_BeerBottleDescription": {
@@ -41,6 +44,7 @@
         "Russian": "Просто бутылка пива.",
         "French (France)": "Une bouteille de bière ordinaire.",
         "Japanese": "ごく普通の瓶ビール。",
+		"Traditional Chinese": "一瓶再普通不過的啤酒。",
         "Spanish (Spain)": "Una botella de cerveza corriente.",
         "Turkish": "Ortalama bir şişe bira.",
         "Italian": "Una bottiglia di birra ordinaria."
@@ -51,6 +55,7 @@
         "German": "Ein Brotlaib",
         "Russian": "Хлеб",
         "Japanese": "パン",
+		"Traditional Chinese": "白班諾克麵包",
         "Spanish (Spain)": "Barra de pan",
         "Turkish": "Somun Ekmek",
         "Italian": "Focaccia Bianca"
@@ -61,6 +66,7 @@
         "German": "Ein normales Laib Schwarzbrot.",
         "Russian": "Буханка хлеба",
         "Japanese": "ごくありふれた黒パン。",
+		"Traditional Chinese": "一種口感鬆軟，帶有麵粉香氣的扁麵包。",
         "Spanish (Spain)": "Una barra de pan integral normal.",
         "Turkish": "Buğday unundan yapılmış somun ekmek",
         "Italian": "Una morbida focaccia bianca."
@@ -76,6 +82,7 @@
         "Italian": "Chili",
         "Simplified Chinese": "Chili",
         "Japanese": "チリ缶",
+		"Traditional Chinese": "辣肉醬罐頭",
         "Spanish (Spain)": "Chili"
     },
     "GAMEPLAY_CannedChiliDescription": {
@@ -84,6 +91,7 @@
         "German": "Herzlich. Wärmend. Beruhigend für die Seele.",
         "Russian": "Питательно. Согревает тело и душу.",
         "Japanese": "愛情たっぷり。体も温まる。心も落ち着く。",
+		"Traditional Chinese": "飽腹，暖胃，撫慰靈魂。",
         "Spanish (Spain)": "Delicioso. Cálido. Alimento para el alma.",
         "Turkish": "Besleyici. Bedeni ve ruhu ısıtır.",
         "Italian": "Calorosa. Scaldante. Rilassante per l'anima."
@@ -94,6 +102,7 @@
         "German": "Gewürfelte Mango",
         "Russian": "Консервированное манго",
         "Japanese": "角切りマンゴーの缶詰",
+		"Traditional Chinese": "芒果丁罐頭",
         "Spanish (Spain)": "Mangos troceados",
         "Turkish": "Konserve Mango",
         "Italian": "Mango a Cubetti"
@@ -104,6 +113,7 @@
         "German": "Köstlich, süß und schleimig.",
         "Russian": "Вкусные, сладкие и скользкие.",
         "Japanese": "美味しく、甘く、滑らかな口当たり。",
+		"Traditional Chinese": "美味、香甜，口感滑嫩。",
         "Spanish (Spain)": "Deliciosos, dulces y un poco pegajosos.",
         "Turkish": "Lezzetli, tatlı ve yumuşak.",
         "Italian": "Deliziosi, dolci e viscidi."
@@ -114,6 +124,7 @@
         "German": "Halbierte Birnen",
         "Russian": "Консервированные груши",
         "Japanese": "二つ切り洋梨の缶詰",
+		"Traditional Chinese": "西洋梨罐頭",
         "Spanish (Spain)": "Peras partidas",
         "Turkish": "İkiye Bölünmüş Armut",
         "Italian": "Pere Affettate"
@@ -124,6 +135,7 @@
         "German": "Nicht die frischesten, aber trotzdem lecker.",
         "Russian": "Не самые свежие, но все равно вкусные.",
         "Japanese": "新鮮ではないが、十分美味しい。",
+		"Traditional Chinese": "雖不比現摘的新鮮，但味道依然不錯。",
         "Spanish (Spain)": "No son las más frecas, pero en cualquier caso están buenas.",
         "Turkish": "Ne olursa olsun en taze değil ama lezzetli.",
         "Italian": "Non le più fresche, ma buone lo stesso."
@@ -134,6 +146,7 @@
         "German": "Gewürfelte Äpfel",
         "Russian": "Консервированный ананас",
         "Japanese": "角切りりんごの缶詰",
+		"Traditional Chinese": "蘋果丁罐頭",
         "Spanish (Spain)": "Manzanas trozeadas",
         "Turkish": "Doğranmış elma",
         "Italian": "Mele Tagliate a Dadini"
@@ -144,6 +157,7 @@
         "German": "Eine von allen geliebte Frucht.",
         "Russian": "Любимый всеми фрукт.",
         "Japanese": "誰からも愛される定番のフルーツ。",
+		"Traditional Chinese": "深獲大眾喜愛的經典水果。",
         "Spanish (Spain)": " Una fruta básica amada por todos.",
         "Turkish": "Herkes tarafından sevilen temel bir meyve.",
         "Italian": "Un frutto di base amato da tutti."
@@ -154,6 +168,7 @@
         "German": "Spaghetti in der Dose",
         "Russian": "Спагетти",
         "Japanese": "スパゲッティの缶詰",
+		"Traditional Chinese": "義大利麵罐頭",
         "Spanish (Spain)": "Spagetti enlatado",
         "Turkish": "Spagetti",
         "Italian": "Spaghetti"
@@ -164,6 +179,7 @@
         "German": "Fütter das innere Kind in dir!",
         "Russian": "Покорми своего внутреннего ребенка!",
         "Japanese": "君の内なる子供心に届けよう！",
+		"Traditional Chinese": "滿足你內心的那個小孩！",
         "Spanish (Spain)": "¡Alimenta a tu niño interior!",
         "Turkish": "İçindeki çocuğu doyur!",
         "Italian": "Sfama il tuo bambino interiore!"
@@ -174,6 +190,7 @@
         "German": "Eintopf",
         "Russian": "Гуляш",
         "Japanese": "シチューの缶詰",
+		"Traditional Chinese": "燉牛肉罐頭",
         "Spanish (Spain)": "Estofado",
         "Turkish": "Güveç",
         "Italian": "Stufato"
@@ -184,6 +201,7 @@
         "Russian": "Сытный обед с говядиной и овощами. Идеальный обед.",
         "German": "Eine ideale, herzhafte Mahlzeit mit Rindfleisch und Gemüse.",
         "Japanese": "牛肉と野菜が入った愛情あふれる料理。理想の一品だ。",
+		"Traditional Chinese": "包含牛肉與蔬菜，飽腹感十足。理想的一餐。",
         "Spanish (Spain)": "Un plato copioso con ternera y verduras. Una comida ideal.",
         "Turkish": "Sığır eti ve sebze ile doyurucu bir yemek. İdeal bir yemek.",
         "Italian": "Un caloroso pasto con manzo e verdure. Un pasto ideale."
@@ -199,6 +217,7 @@
         "Italian": "Cibo per Gatti",
         "Simplified Chinese": "猫食",
         "Japanese": "キャットフード",
+		"Traditional Chinese": "貓食罐頭",
         "Spanish (Spain)": "Comida para gato"
     },
     "GAMEPLAY_CatFoodDescription": {
@@ -207,6 +226,7 @@
         "German": "Eine Dose Trockenfutter für Katzen.\nRiecht fürchterlich und wird wahrscheinlich noch schlimmer schmecken.",
         "Russian": "Банка кошачьего корма. \nПахнет ужасно, а на вкус скорее всего еще хуже.",
         "Japanese": "ドライタイプのキャットフード缶。 \n匂いは酷く、そして味はそれ以上に酷いだろう。",
+		"Traditional Chinese": "一罐乾貓糧。\n聞著糟透了，嚐起來肯定更慘。",
         "Spanish (Spain)": "Lata de comida seca para gatos. \nHuele mal, sabrá peor.",
         "Turkish": "Bir kutu kuru kedi maması.\nBerbat kokuyor ve muhtemelen tadı daha kötü olacak",
         "Italian": "Una lattina di cibo secco per gatti. \nHa un odore terribile e avrà un sapore peggiore."
@@ -222,6 +242,7 @@
         "Italian": "Biscotti",
         "Simplified Chinese": "饼干",
         "Japanese": "クッキー",
+		"Traditional Chinese": "餅乾",
         "Spanish (Spain)": "Cookies"
     },
     "GAMEPLAY_CookiesDescription": {
@@ -235,6 +256,7 @@
         "Italian": "Un po' stantii, ma hanno ancora un buon sapore.",
         "Simplified Chinese": "有点陈旧，但它们仍然很好吃。",
         "Japanese": "ちょっと傷んでるけど、味はまだ大丈夫。",
+		"Traditional Chinese": "雖然有點受潮了，但味道仍然不錯。",
         "Spanish (Spain)": "Un poco pasadas, pero aún están buenas."
     },
     "GAMEPLAY_Cornflakes": {
@@ -248,6 +270,7 @@
         "Italian": "Cornflakes",
         "Simplified Chinese": "玉米片",
         "Japanese": "コーンフレーク",
+		"Traditional Chinese": "玉米片",
         "Spanish (Spain)": "Copos de maíz"
     },
     "GAMEPLAY_CornflakesDescription": {
@@ -256,6 +279,7 @@
         "German": "Eine große Schachtel Cornflakes. Trocken und relativ kalorienarm.",
         "Russian": "Большая коробка кукурзных хлопьев. Сухие и довольно малокалорийные.",
         "Japanese": "コーンフレークの大箱。ドライでカロリー控えめ。",
+		"Traditional Chinese": "一大盒玉米片。乾巴巴的，能提供的熱量也相對有限。",
         "Spanish (Spain)": "Una caja grande de copos de maíz. Secos y faltos de calorias.",
         "Turkish": "Büyük boy mısır gevreği. Kuru ve nispeten kalorisiz.",
         "Italian": "Una grossa scatola di cornflakes. Secchi e relativamente carenti di calorie."
@@ -266,6 +290,7 @@
         "German": "Eine Tasse Milch",
         "Russian": "Кружка молока",
         "Japanese": "カップ入りミルク",
+		"Traditional Chinese": "一杯牛奶",
         "Spanish (Spain)": "Taza de leche",
         "Turkish": "Bir Bardak Süt",
         "Italian": "Tazza di Latte"
@@ -276,6 +301,7 @@
         "German": "Schmeckt vielleicht besser als Wasser - stäkrt aber nicht die Knochen.",
         "Russian": "На вкус лучше чем вода, но кости не укрепляет.",
         "Japanese": "水よりはましな味だろう -- だが骨を丈夫にすることはできないだろう。",
+		"Traditional Chinese": "或許比水好喝一些 -- 但它可沒法強健你的骨骼。",
         "Spanish (Spain)": "Puede que sepa mejor que el agua, pero no fortalecerá tus huesos.",
         "Turkish": "Tadı sudan daha iyi olabilir ama kemiklerinizi güçlendirmez.",
         "Italian": "Può avere un gusto migliore dell'acqua -- ma non rafforzerà le tue ossa."
@@ -291,6 +317,7 @@
         "Italian": "Bustina di Latte in Polvere",
         "Simplified Chinese": "干奶包",
         "Japanese": "粉ミルクのパック",
+		"Traditional Chinese": "奶粉包",
         "Spanish (Spain)": "Paquete de leche en polvo"
     },
     "GAMEPLAY_DryMilkPacketDescription": {
@@ -304,6 +331,7 @@
         "Italian": "Una bustina di latte in polvere.",
         "Simplified Chinese": "一包奶粉。",
         "Japanese": "粉ミルクの小さなパック。水に溶かして使う。",
+		"Traditional Chinese": "一包奶粉。加水沖泡使用。",
         "Spanish (Spain)": "Un paquete de leche en polvo. Mézclalo con agua para rehidratarla."
     },
     "GAMEPLAY_ForsakenSpirits": {
@@ -317,6 +345,7 @@
         "Italian": "Spiriti Abbandonati",
         "Simplified Chinese": "被遗忘的灵魂",
         "Japanese": "フォーセイクン・スピリッツ（見捨てられた魂）",
+		"Traditional Chinese": "遺落之靈",
         "Spanish (Spain)": "Espíritus olvidados"
     },
     "GAMEPLAY_ForsakenSpiritsDescription": {
@@ -325,6 +354,7 @@
         "German": "Leben am Limit. Offizielles Getränk der The Long-Entwickler!",
         "Russian": "Живем на грани. Официальный напиток Долгой Разработки.",
         "Japanese": "崖っぷちよりはまし。The Long Developmentの公式飲料です！",
+		"Traditional Chinese": "活在極限，生命更精彩。The Long Development 的官方指定飲品！",
         "Spanish (Spain)": "La vida es mejor al límite ¡Bebida oficial de El Largo Desarrollo!",
         "Turkish": "Hayat sınırda daha iyidir. The Long Development'ın resmi içeceği!",
         "Italian": "La vita è meglio al limite. Bevanda ufficiale di The Long Development!"
@@ -340,6 +370,7 @@
         "Italian": "Barattolo di Miele",
         "Simplified Chinese": "一罐蜂蜜",
         "Japanese": "瓶入りのハチミツ",
+		"Traditional Chinese": "一罐蜂蜜",
         "Spanish (Spain)": "Tarro de miel"
     },
     "GAMEPLAY_HoneyJarDescription": {
@@ -348,6 +379,7 @@
         "German": "Ein wahrer Lebensretter. Honig liefert reichlich Kalorien und verdirbt nie.",
         "Russian": "Спасительное средство. Мед содержит щедрое количество калорий и никогда не портится.",
         "Japanese": "これこそ真の救命の一品。ハチミツは大量のカロリーを摂取できて、そして決して腐りません。",
+		"Traditional Chinese": "真正的救命食物。蜂蜜能提供極高的熱量，且永不變質。",
         "Spanish (Spain)": "Un verdadero salvavidas. Proporciona una buena cantidad de calorías y jamás caducará.",
         "Turkish": "Gerçek bir cankurtaran. Bal bol miktarda kalori sağlar ve asla bozulmaz.",
         "Italian": "Un vero salvavita. Il miele fornisce una quantità generosa di calorie e non va mai male."
@@ -363,6 +395,7 @@
         "Italian": "Bustina di Cioccolato in Polvere.",
         "Simplified Chinese": "热可可包",
         "Japanese": "ホットココアのパック",
+		"Traditional Chinese": "熱可可包",
         "Spanish (Spain)": "Paquete de cacao"
     },
     "GAMEPLAY_HotCocoaBagDescription": {
@@ -371,6 +404,7 @@
         "German": "Ein Päckchen für die Zubereitung von heißem Kakao. Jetzt mit Marshmallows.",
         "Russian": "Пакетик какао. Теперь с зефирками.",
         "Japanese": "ホットココア用ココアのパック。マシュマロ入り。",
+		"Traditional Chinese": "用於製作熱可可的沖泡包。添加了棉花糖。",
         "Spanish (Spain)": "Un paquete usado para hacer chocolate caliente. Ahora con malvaviscos.",
         "Turkish": "Sıcak kakao yapmak için kullanılan bir paket. Şimdi marshmallow ile.",
         "Italian": "Una bustina usata per fare la cioccolata calda. Ora con marshmallows."
@@ -386,6 +420,7 @@
         "Italian": "Scatola di Cioccolata Calda",
         "Simplified Chinese": "热可可盒",
         "Japanese": "ホットココアの箱",
+		"Traditional Chinese": "盒裝熱可可包",
         "Spanish (Spain)": "Caja de cacao en polvo"
     },
     "GAMEPLAY_HotCocoaBoxDescription": {
@@ -394,6 +429,7 @@
         "German": "Eine Box voller Päckchen um heißen Kakao zuzubereiten. Jetzt mit Marshmallows.",
         "Russian": "Коробка с пакетиками для заварки какао. Теперь с зефирками.",
         "Japanese": "ホットココア用のパックが詰まった箱。マシュマロ入り。",
+		"Traditional Chinese": "盒內裝滿了用於製作熱可可的沖泡包。添加了棉花糖。",
         "Spanish (Spain)": "Una caja llena de paquetes para hacer chocolate caliente. Ahora con malvaviscos.",
         "Turkish": "Sıcak kakao yapmak için kullanılan paketlerle dolu bir kutu. Şimdi marshmallow ile",
         "Italian": "Una scatola piena di bustine usate per fare la cioccolata calda. Ora con marshmallows."
@@ -409,6 +445,7 @@
         "Italian": "Bustina di Cioccolato in Polvere.",
         "Simplified Chinese": "热可可包",
         "Japanese": "ホットココアのパック",
+		"Traditional Chinese": "盒裝熱可可包",
         "Spanish (Spain)": "paquete"
     },
     "GAMEPLAY_HotCocoaBoxStackMultiple": {
