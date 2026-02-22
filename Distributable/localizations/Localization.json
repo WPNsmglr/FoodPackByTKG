@@ -91,7 +91,7 @@
         "German": "Herzlich. Wärmend. Beruhigend für die Seele.",
         "Russian": "Питательно. Согревает тело и душу.",
         "Japanese": "愛情たっぷり。体も温まる。心も落ち着く。",
-		"Traditional Chinese": "飽腹，暖胃，撫慰靈魂。",
+		"Traditional Chinese": "份量十足，溫暖身心，撫慰靈魂。",
         "Spanish (Spain)": "Delicioso. Cálido. Alimento para el alma.",
         "Turkish": "Besleyici. Bedeni ve ruhu ısıtır.",
         "Italian": "Calorosa. Scaldante. Rilassante per l'anima."
@@ -113,7 +113,7 @@
         "German": "Köstlich, süß und schleimig.",
         "Russian": "Вкусные, сладкие и скользкие.",
         "Japanese": "美味しく、甘く、滑らかな口当たり。",
-		"Traditional Chinese": "美味、香甜，口感滑嫩。",
+		"Traditional Chinese": "美味、香甜且口感滑嫩。",
         "Spanish (Spain)": "Deliciosos, dulces y un poco pegajosos.",
         "Turkish": "Lezzetli, tatlı ve yumuşak.",
         "Italian": "Deliziosi, dolci e viscidi."
@@ -124,7 +124,7 @@
         "German": "Halbierte Birnen",
         "Russian": "Консервированные груши",
         "Japanese": "二つ切り洋梨の缶詰",
-		"Traditional Chinese": "西洋梨罐頭",
+		"Traditional Chinese": "西洋梨切片罐頭",
         "Spanish (Spain)": "Peras partidas",
         "Turkish": "İkiye Bölünmüş Armut",
         "Italian": "Pere Affettate"
@@ -135,7 +135,7 @@
         "German": "Nicht die frischesten, aber trotzdem lecker.",
         "Russian": "Не самые свежие, но все равно вкусные.",
         "Japanese": "新鮮ではないが、十分美味しい。",
-		"Traditional Chinese": "雖不比現摘的新鮮，但味道依然不錯。",
+		"Traditional Chinese": "雖然不是最新鮮的，但味道依然不錯。",
         "Spanish (Spain)": "No son las más frecas, pero en cualquier caso están buenas.",
         "Turkish": "Ne olursa olsun en taze değil ama lezzetli.",
         "Italian": "Non le più fresche, ma buone lo stesso."
@@ -157,7 +157,7 @@
         "German": "Eine von allen geliebte Frucht.",
         "Russian": "Любимый всеми фрукт.",
         "Japanese": "誰からも愛される定番のフルーツ。",
-		"Traditional Chinese": "深獲大眾喜愛的經典水果。",
+		"Traditional Chinese": "深受大眾喜愛的常見水果。",
         "Spanish (Spain)": " Una fruta básica amada por todos.",
         "Turkish": "Herkes tarafından sevilen temel bir meyve.",
         "Italian": "Un frutto di base amato da tutti."
@@ -179,7 +179,7 @@
         "German": "Fütter das innere Kind in dir!",
         "Russian": "Покорми своего внутреннего ребенка!",
         "Japanese": "君の内なる子供心に届けよう！",
-		"Traditional Chinese": "滿足你內心的那個小孩！",
+		"Traditional Chinese": "滿足你內心的孩子氣！",
         "Spanish (Spain)": "¡Alimenta a tu niño interior!",
         "Turkish": "İçindeki çocuğu doyur!",
         "Italian": "Sfama il tuo bambino interiore!"
@@ -226,7 +226,7 @@
         "German": "Eine Dose Trockenfutter für Katzen.\nRiecht fürchterlich und wird wahrscheinlich noch schlimmer schmecken.",
         "Russian": "Банка кошачьего корма. \nПахнет ужасно, а на вкус скорее всего еще хуже.",
         "Japanese": "ドライタイプのキャットフード缶。 \n匂いは酷く、そして味はそれ以上に酷いだろう。",
-		"Traditional Chinese": "一罐乾貓糧。\n聞著糟透了，嚐起來肯定更慘。",
+		"Traditional Chinese": "一罐乾貓糧。\n聞起來糟透了，嚐起來大概更慘。",
         "Spanish (Spain)": "Lata de comida seca para gatos. \nHuele mal, sabrá peor.",
         "Turkish": "Bir kutu kuru kedi maması.\nBerbat kokuyor ve muhtemelen tadı daha kötü olacak",
         "Italian": "Una lattina di cibo secco per gatti. \nHa un odore terribile e avrà un sapore peggiore."
@@ -270,7 +270,7 @@
         "Italian": "Cornflakes",
         "Simplified Chinese": "玉米片",
         "Japanese": "コーンフレーク",
-		"Traditional Chinese": "玉米片",
+		"Traditional Chinese": "KAI's 玉米脆片",
         "Spanish (Spain)": "Copos de maíz"
     },
     "GAMEPLAY_CornflakesDescription": {
@@ -279,7 +279,7 @@
         "German": "Eine große Schachtel Cornflakes. Trocken und relativ kalorienarm.",
         "Russian": "Большая коробка кукурзных хлопьев. Сухие и довольно малокалорийные.",
         "Japanese": "コーンフレークの大箱。ドライでカロリー控えめ。",
-		"Traditional Chinese": "一大盒玉米片。乾巴巴的，能提供的熱量也相對有限。",
+		"Traditional Chinese": "一大盒玉米脆片。乾巴巴的，能提供的熱量也相對有限。",
         "Spanish (Spain)": "Una caja grande de copos de maíz. Secos y faltos de calorias.",
         "Turkish": "Büyük boy mısır gevreği. Kuru ve nispeten kalorisiz.",
         "Italian": "Una grossa scatola di cornflakes. Secchi e relativamente carenti di calorie."
@@ -290,7 +290,7 @@
         "German": "Eine Tasse Milch",
         "Russian": "Кружка молока",
         "Japanese": "カップ入りミルク",
-		"Traditional Chinese": "一杯牛奶",
+		"Traditional Chinese": "一杯沖泡牛奶",
         "Spanish (Spain)": "Taza de leche",
         "Turkish": "Bir Bardak Süt",
         "Italian": "Tazza di Latte"
@@ -301,7 +301,7 @@
         "German": "Schmeckt vielleicht besser als Wasser - stäkrt aber nicht die Knochen.",
         "Russian": "На вкус лучше чем вода, но кости не укрепляет.",
         "Japanese": "水よりはましな味だろう -- だが骨を丈夫にすることはできないだろう。",
-		"Traditional Chinese": "或許比水好喝一些 -- 但它可沒法強健你的骨骼。",
+		"Traditional Chinese": "或許比水好喝一些，但它可沒法強健你的骨骼。",
         "Spanish (Spain)": "Puede que sepa mejor que el agua, pero no fortalecerá tus huesos.",
         "Turkish": "Tadı sudan daha iyi olabilir ama kemiklerinizi güçlendirmez.",
         "Italian": "Può avere un gusto migliore dell'acqua -- ma non rafforzerà le tue ossa."
@@ -379,7 +379,7 @@
         "German": "Ein wahrer Lebensretter. Honig liefert reichlich Kalorien und verdirbt nie.",
         "Russian": "Спасительное средство. Мед содержит щедрое количество калорий и никогда не портится.",
         "Japanese": "これこそ真の救命の一品。ハチミツは大量のカロリーを摂取できて、そして決して腐りません。",
-		"Traditional Chinese": "真正的救命食物。蜂蜜能提供極高的熱量，且永不變質。",
+		"Traditional Chinese": "真正的救命稻草。蜂蜜能提供極高的熱量，且永不變質。",
         "Spanish (Spain)": "Un verdadero salvavidas. Proporciona una buena cantidad de calorías y jamás caducará.",
         "Turkish": "Gerçek bir cankurtaran. Bal bol miktarda kalori sağlar ve asla bozulmaz.",
         "Italian": "Un vero salvavita. Il miele fornisce una quantità generosa di calorie e non va mai male."
@@ -404,7 +404,7 @@
         "German": "Ein Päckchen für die Zubereitung von heißem Kakao. Jetzt mit Marshmallows.",
         "Russian": "Пакетик какао. Теперь с зефирками.",
         "Japanese": "ホットココア用ココアのパック。マシュマロ入り。",
-		"Traditional Chinese": "用於製作熱可可的沖泡包。加了棉花糖。",
+		"Traditional Chinese": "用於沖泡熱可可的沖泡包。加了棉花糖。",
         "Spanish (Spain)": "Un paquete usado para hacer chocolate caliente. Ahora con malvaviscos.",
         "Turkish": "Sıcak kakao yapmak için kullanılan bir paket. Şimdi marshmallow ile.",
         "Italian": "Una bustina usata per fare la cioccolata calda. Ora con marshmallows."
@@ -429,7 +429,7 @@
         "German": "Eine Box voller Päckchen um heißen Kakao zuzubereiten. Jetzt mit Marshmallows.",
         "Russian": "Коробка с пакетиками для заварки какао. Теперь с зефирками.",
         "Japanese": "ホットココア用のパックが詰まった箱。マシュマロ入り。",
-		"Traditional Chinese": "盒內裝滿了用於製作熱可可的沖泡包。加了棉花糖。",
+		"Traditional Chinese": "盒內裝滿了用於沖泡熱可可的沖泡包。加了棉花糖。",
         "Spanish (Spain)": "Una caja llena de paquetes para hacer chocolate caliente. Ahora con malvaviscos.",
         "Turkish": "Sıcak kakao yapmak için kullanılan paketlerle dolu bir kutu. Şimdi marshmallow ile",
         "Italian": "Una scatola piena di bustine usate per fare la cioccolata calda. Ora con marshmallows."
@@ -584,7 +584,7 @@
         "German": "Reiner, gekochter, weißer Reis. Eher langweilig, liefert aber gute Kalorien.",
         "Russian": "Приготовленный рис - довольно пресный, но калорийный.",
         "Japanese": "交じりっけなしの白飯、味気ない -- でもカロリーは十分だ。",
-		"Traditional Chinese": "白水煮的米飯。雖然沒啥味道，但熱量管夠。耐餓又經典。",
+		"Traditional Chinese": "白水煮的米飯。雖然乏味但能提供充足熱量。耐餓且常見。",
         "Spanish (Spain)": "Arroz blanco cocido. Un poco insipido, pero aporta muchas calorías.",
         "Turkish": "Saf pişmiş beyaz pirinç, biraz sıkıcı ama iyi kalori sağlıyor.",
         "Italian": "Riso bianco cotto in acqua -- piuttosto noioso ma fornisce una buona quantità di calorie. Nutriente e senza tempo."
@@ -631,7 +631,7 @@
         "German": "Zerkleinerter, gekochter Schinken in der Dose. Günstig und im Notfall ausreichend.",
         "Russian": "Порезанная консервированная ветчина. Дешево, просто, пойдет при необходимости.",
         "Japanese": "缶詰のハム。安っぽくて単純な食品だけど、いざという時は役に立つ。",
-		"Traditional Chinese": "",
+		"Traditional Chinese": "罐裝的火腿。雖然味道獨特，但價格便宜且簡單方便，在應急時也能派上用場。",
         "Spanish (Spain)": "Jamón cocido enlatado. Barato, simple, is servirá en un apuro.",
         "Turkish": "Rendelenmiş konserve jambon. Acil bir durumuda vücuda yeterli besin sağlar.",
         "Italian": "Prosciutto tagliato e conservato in lattina. Un gusto acquisito ma economico, semplice e andrà bene in caso di necessità."
@@ -647,6 +647,7 @@
         "Italian": "Bottiglia di Vodka",
         "Simplified Chinese": "伏特加瓶",
         "Japanese": "ウオッカの瓶",
+		"Traditional Chinese": "伏特加",
         "Spanish (Spain)": "Botella de vodka"
     },
     "GAMEPLAY_VodkaBottleDescription": {
@@ -655,6 +656,7 @@
         "German": "Eine Flasche des harten Zeugs. Lokal destilliert. Ein etwas seltener Anblick.",
         "Russian": "Бутылка крепкого алкоголя местного производства. Довольно редкая вещь.",
         "Japanese": "強い酒。一部の地域で作られている。あまりお目にかかれない。",
+		"Traditional Chinese": "一瓶烈酒。本地手工蒸餾，頗為罕見的珍品。",
         "Spanish (Spain)": "Una botella de las fuertes. Destilado local. Un hallazgo raro.",
         "Turkish": "Sert şeylerden bir şişe. Yerel olarak damıtılmış. Biraz nadir bir manzara.",
         "Italian": "Una bottiglia di roba forte. Distillata localmente. Uno spettacolo alquando raro."
@@ -670,6 +672,7 @@
         "Italian": "Fiaschetta",
         "Simplified Chinese": "酒壶",
         "Japanese": "ヒップフラスク",
+		"Traditional Chinese": "酒壺",
         "Spanish (Spain)": "Petaca"
     },
     "GAMEPLAY_WhiskyFlaskDescription": {
@@ -678,6 +681,7 @@
         "German": "Riecht wie Whisky... \nDie Metallgravur spielt auf einen geheimnissvollen Ort an.",
         "Russian": "Пахнет как виски... \nНадпись на металле упоминает какое-то загадочное место.",
         "Japanese": "ウィスキーのような香りだ……。 \n刻まれている模様は謎めいた場所を連想させる。",
+		"Traditional Chinese": "聞著像是威士忌的味道……\n酒壺上的浮雕似乎暗示著某個神祕之處。",
         "Spanish (Spain)": "Huele a whisky... \nEl grabado metálico alude a un misterioso lugar.",
         "Turkish": "Viski gibi kokuyor... \nMetal ikonografi gizemli bir yeri ima ediyor.",
         "Italian": "Odora di Whisky... \nL'iconografia del metallo allude a un posto misterioso."
@@ -693,6 +697,7 @@
         "Italian": "Bottiglia di Vino",
         "Simplified Chinese": "酒瓶",
         "Japanese": "ワインボトル",
+		"Traditional Chinese": "葡萄酒",
         "Spanish (Spain)": "Botella de vino"
     },
     "GAMEPLAY_WineBottleDescription": {
@@ -706,6 +711,7 @@
         "Italian": "Una bottiglia di vino per quell'occasione speciale. Non berne troppo in una volta.",
         "Simplified Chinese": "为那个盛大的庆祝活动准备一瓶酒。不要一次喝太多。",
         "Japanese": "大きなお祝いのために用意されたワイン。高級品だがめったに見かけない。",
+		"Traditional Chinese": "一瓶為了盛大的慶祝活動而準備的葡萄酒。品質優良且非常罕見。",
         "Spanish (Spain)": "Una botella de vino perfecta para una gran ocasión. Rara y de gran calidad."
     },
     "GAMEPLAY_CerealHoney": {
@@ -714,6 +720,7 @@
         "German": "Honigzerealien",
         "Russian": "Медовые хлопья",
         "Japanese": "ハチミツ入りシリアル",
+		"Traditional Chinese": "POP's 蜂蜜脆片",
         "Spanish (Spain)": "POP's",
         "Turkish": "Ballı Gevrek",
         "Italian": "POP's"
@@ -724,6 +731,7 @@
         "German": "Eine süße, gezuckerte Mischung aus Honig und Mais.",
         "Russian": "Сладкие кукурузные хлопья с медом.",
         "Japanese": "ハチミツとトウモロコシで作られた甘いシリアル。",
+		"Traditional Chinese": "由蜂蜜與玉米製成的香甜脆片。",
         "Spanish (Spain)": "Cereales dulces azucarados, hechos con miel y maiz.",
         "Turkish": "Bal ve mısırla yapılan tatlı, şekerli bir tahıl gevreği.",
         "Italian": "Cereali dolci e zuccherati fatti con miele e mais."
@@ -734,6 +742,7 @@
         "German": "Getreide-Vollkorn-Müsli",
         "Russian": "Пшеничный хруст",
         "Japanese": "小麦全粒粉のシリアル",
+		"Traditional Chinese": "全麥喀滋脆片",
         "Spanish (Spain)": "Crujientes Fiberwheat",
         "Turkish": "Lifli Buğday Ezmesi",
         "Italian": "Fiberwheat Croccanti"
@@ -744,6 +753,7 @@
         "German": "Sehr trocken und knusprig. Überraschend nahrhaft.",
         "Russian": "Очень сухие и хрустящие хлопья. Очень питательные.",
         "Japanese": "とてもドライで歯ごたえあり。意外と栄養分がある。",
+		"Traditional Chinese": "極其的乾燥且酥脆。營養豐富得令人意外。",
         "Spanish (Spain)": "Extremadamente secos y crujientes. Sorprendentemente nutritivos.",
         "Turkish": "Son derece kuru ve gevrek. Şaşırtıcı derecede besleyici",
         "Italian": "Estremamente secchi e croccanti. Sorprendentemente nutrienti."
@@ -754,6 +764,7 @@
         "German": "Dose Thunfisch",
         "Russian": "Консервированный тунец",
         "Japanese": "ツナ缶",
+		"Traditional Chinese": "鮪魚罐頭",
         "Spanish (Spain)": "Lata de atún",
         "Turkish": "Ton Balığı",
         "Italian": "Lattina di Tonno"
@@ -764,6 +775,7 @@
         "German": "Eine kleine Portion Thunfischflocken.",
         "Russian": "Небольшая порция расслоенного тунца.",
         "Japanese": "小さなツナ缶",
+		"Traditional Chinese": "一小份碎鮪魚。",
         "Spanish (Spain)": "Una pequeña porción de atún desmenuzado.",
         "Turkish": "Küçük bir porsiyon ton balığı.",
         "Italian": "Una piccola porzione di tonno in fiocchi."
@@ -774,6 +786,7 @@
         "German": "Mehltüte",
         "Russian": "Упаковка муки",
         "Japanese": "小麦粉の袋",
+		"Traditional Chinese": "一袋白麵粉",
         "Spanish (Spain)": "Saco de harina",
         "Turkish": "Bir paket un",
         "Italian": "Sacco di Farina Bianca"
@@ -784,6 +797,7 @@
         "German": "Flauschig und fertig zum Backen. Vom Rohverzehr wird abgeraten.",
         "Russian": "Рыхлая и подходящая для выпечки. Не рекомендуется к употреблению в сыром виде.",
         "Japanese": "ふわふわしていてお菓子作りに最適です。生で食べるのはお勧めしません。",
+		"Traditional Chinese": "質地鬆散細膩且價格實惠，不建議生食。",
         "Spanish (Spain)": "Esponjosa y lista para hornear. Consumición en crudo no recomendada.",
         "Turkish": "Kabarık ve pişirmeye hazır. Çiğ tüketim tavsiye edilmez.",
         "Italian": "Soffice ed economica. Consumo crudo non consigliato."
@@ -794,6 +808,7 @@
         "German": "Dose Chilischoten",
         "Russian": "Упаковка халапеньо",
         "Japanese": "ハラペーニョの缶詰",
+		"Traditional Chinese": "墨西哥辣椒罐頭",
         "Spanish (Spain)": "Jalapeños enlatados",
         "Turkish": "Jalepano Konservesi",
         "Italian": "Lattina di Jalapenos"
@@ -804,6 +819,7 @@
         "German": "Würzig eingelegt. Wird dich durstig machen.",
         "Russian": "Острые и консервированные. После них захочется пить.",
         "Japanese": "酸っぱくてスパイシー。食べると喉が渇く。",
+		"Traditional Chinese": "辣味十足的醃漬品。吃完會讓你口乾舌燥。",
         "Spanish (Spain)": "Encurtidos y picantes. Te darán sed.",
         "Turkish": "Turşu ve baharatlı. Seni susatacak.",
         "Italian": "Piccante e sottaceto. Ti farà venire sete."
@@ -813,6 +829,7 @@
         "German": "Becher Ramen",
         "Russian": "Чашка рамена",
         "Japanese": "カップラーメン",
+		"Traditional Chinese": "杯麵",
         "Spanish (Spain)": "Tazón de ramen",
         "Turkish": "Bir Bardak Ramen",
         "Italian": "Bicchiere di Ramen"
@@ -822,6 +839,7 @@
         "German": "Ein kleiner Becher abgestandener Instantnudeln. Kann für eine bessere Mahlzeit im Topf gekocht werden.",
         "Russian": "Чашка залежавшейся лапши быстрого приготовления. Лучше готовить в кастрюле.",
         "Japanese": "小さなカップ入りのインスタント麺。鍋で調理するとより美味しく食べられる。",
+		"Traditional Chinese": "一小杯略為受潮的泡麵。烹煮後會更好吃。",
         "Spanish (Spain)": "Un pequeño tazón de fideos instantáneos pasados. Pueden cocinarse en una cazuela para hacer un delicioso plato.",
         "Turkish": "Küçük bir bardak bayat hazır erişte. Daha iyi bir yemek için bir tencerede pişirilebilir.",
         "Italian": "Un piccolo bicchiere di cartone con tagliatelle istantanee stantie. Può essere cotto in una pentola per un pasto migliore."
@@ -831,6 +849,7 @@
         "German": "Becher Ramen (gekocht)",
         "Russian": "Чашка рамена (Приготовленная)",
         "Japanese": "カップラーメン（調理済み）",
+		"Traditional Chinese": "杯麵 (熟)",
         "Spanish (Spain)": "Tazón de ramen (Cocinado)",
         "Turkish": "Bir Bardak Ramen (Pişmiş)",
         "Italian": "Bicchiere di Ramen (Cotto)"
@@ -840,6 +859,7 @@
         "German": "Ein kleiner Becher gekochter Instantnoodeln. Genieße sie!",
         "Russian": "Чашка приготовленного рамена. Наслаждайся!",
         "Japanese": "調理済みのカップラーメン。よいひと時を！",
+		"Traditional Chinese": "一小杯泡好的泡麵。好好享受吧！",
         "Spanish (Spain)": "Un pequeño tazón de fideos intantáneos cocinados ¡Que aproveche!",
         "Turkish": "Küçük bir bardak pişmiş hazır erişte. Eğlence!",
         "Italian": "Un piccolo bicchiere di cartone con tagliatelle istantanee cotte. Goditele!"
@@ -849,6 +869,7 @@
         "German": "Packung Ramen",
         "Russian": "Упаковка рамена",
         "Japanese": "インスタントラーメン",
+		"Traditional Chinese": "泡麵",
         "Spanish (Spain)": "Paquete de ramen",
         "Turkish": "Bir Paket Ramen",
         "Italiano": "Pachetto di Ramen"
@@ -858,6 +879,7 @@
         "German": "Eine kleine Packung abgestandener Instantnudeln. Kann für eine bessere Mahlzeit im Topf gekocht werden.",
         "Russian": "Маленькая упаковка лапши быстрого приготовления. Лучше готовить в кастрюле.",
         "Japanese": "袋入りのインスタントラーメン。鍋で調理するとより美味しく食べられる。",
+		"Traditional Chinese": "一小包略為受潮的泡麵。烹煮後會更好吃。",
         "Spanish (Spain)": "Un pequeño paquete de fideos instantáneos pasados. Pueden cocinarse en una cazuela para hacer un delicioso plato.",
         "Turkish": "Küçük bir paket bayat hazır erişte. Daha iyi bir yemek için tencerede pişirilebilir.",
         "Italian": "Un piccolo pachetto di tagliatelle istantanee stantie. Può essere cotto in una pentola per un pasto migliore."
@@ -867,6 +889,7 @@
         "German": "Schüssel Ramen",
         "Russian": "Приготовленный рамен",
         "Japanese": "ラーメン",
+		"Traditional Chinese": "泡麵(熟)",
         "Spanish (Spain)": "Bol de ramen",
         "Turkish": "Bir Kase Ramen",
         "Italian": "Ciotola di Ramen"
@@ -876,6 +899,7 @@
         "German": "Eine Schüssel gekochter Instantnudeln - riecht nach Sojasauce.",
         "Russian": "Готовая лапша быстрого приготовления - пахнет соевым соусом.",
         "Japanese": "調理済みのインスタントラーメン。醤油味。",
+		"Traditional Chinese": "一碗泡好的泡麵，聞著像醬油味的。",
         "Spanish (Spain)": "Un bol de fideos instantáneos. Huelen a salsa de soja.",
         "Turkish": "Bir kase pişmiş hazır erişte - soya sosu kokuyor.",
         "Italian": "Una ciotola di tagliatelle istantanee cotte - odora di salsa di soia."
@@ -883,8 +907,9 @@
     "GAMEPLAY_UnCookedSkilletPizza": {
         "English": "Uncooked Pizza",
 		"Russian": "Непропеченная пицца",
-	"Turkish": "Pişirilmemiş Pizza",
-	"Italian": "Pizza Non Cotta"
+		"Turkish": "Pişirilmemiş Pizza",
+		"Italian": "Pizza Non Cotta"
+		"Traditional Chinese": "冷凍披薩",
     },
     "GAMEPLAY_UnCookedSkilletPizzaDescription": {
         "English": "A failed food production, raw and uncooked.",
