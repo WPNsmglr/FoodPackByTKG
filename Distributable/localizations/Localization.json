@@ -909,277 +909,328 @@
 		"Russian": "Непропеченная пицца",
 		"Turkish": "Pişirilmemiş Pizza",
 		"Italian": "Pizza Non Cotta"
-		"Traditional Chinese": "冷凍披薩",
+		"Traditional Chinese": "披薩（生）",
     },
     "GAMEPLAY_UnCookedSkilletPizzaDescription": {
         "English": "A failed food production, raw and uncooked.",
 		"Russian": "Неудачное приготовление. Сырая и неготовая.",
-	"Turkish": "Çiğ ve pişmemiş başarısız bir gıda üretimi.",
-	"Italian": "Una produzione alimentare fallita, cruda e non cotta."
+		"Turkish": "Çiğ ve pişmemiş başarısız bir gıda üretimi.",
+		"Italian": "Una produzione alimentare fallita, cruda e non cotta."
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CookedSkilletPizza": {
         "English": "Skillet Pizza",
 		"Russian": "Пицца на сковороде",
-	"Turkish": "Tavada Pizza",
-	"Italian": "Pizza in Padella"
+		"Turkish": "Tavada Pizza",
+		"Italian": "Pizza in Padella"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CookedSkilletPizzaDescription": {
         "English": "A classic made from what's left -- a taste of the past.",
 		"Russian": "Классика, созданная из того, что осталось, - вкус прошлого.",
-	"Turkish": "Geriye kalanlardan yapılmış bir klasik - geçmişin tadı.",
-	"Italian": "Un classico fatto da quello che rimane -- un gusto del passato."
+		"Turkish": "Geriye kalanlardan yapılmış bir klasik - geçmişin tadı.",
+		"Italian": "Un classico fatto da quello che rimane -- un gusto del passato."
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_UnCookedApplePie": {
         "English": "Uncooked Apple Pie",
 		"Russian": "Непропеченный яблочный пирог",
-	"Turkish": "Pişmemiş Elmalı Turta",
-	"Italian": "Torta di Mele Non Cotta"
+		"Turkish": "Pişmemiş Elmalı Turta",
+		"Italian": "Torta di Mele Non Cotta"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_UnCookedApplePieDescription": {
         "English": "A failed food production, raw and uncooked.",
 		"Russian": "Неудачное приготовление. Сырой и неготовый.",
-	"Turkish": "Çiğ ve pişmemiş başarısız bir gıda üretimi.",
-	"Italian": "Una produzione alimentare fallita, cruda e non cotta."
+		"Turkish": "Çiğ ve pişmemiş başarısız bir gıda üretimi.",
+		"Italian": "Una produzione alimentare fallita, cruda e non cotta."
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CookedApplePie": {
         "English": "Apple Pie",
 		"Russian": "Яблочный пирог",
-	"Turkish": "Elmalı Turta",
-	"Italian": "Torta di Mele"
+		"Turkish": "Elmalı Turta",
+		"Italian": "Torta di Mele"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CookedApplePieDescription": {
         "English": "A mushy Pie oozing with apples. Sweet and warm.",
 		"Russian": "Нежный пирог с яблоками. Сладкий и теплый.",
-	"Turkish": "Elmalı, enfes bir turta. Tatlı ve sıcak.",
-	"Italian": "Una torta molliccia, riempita di mele. Dolce e calda."
+		"Turkish": "Elmalı, enfes bir turta. Tatlı ve sıcak.",
+		"Italian": "Una torta molliccia, riempita di mele. Dolce e calda."
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_UnCookedPierogi": {
         "English": "Uncooked Pierogies",
 		"Russian": "Неприготовленный вареники",
-	"Turkish": "Pişmemiş Pierogies",
-	"Italian": "Pierogi Non Cotti"
+		"Turkish": "Pişmemiş Pierogies",
+		"Italian": "Pierogi Non Cotti"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_UnCookedPierogiDescription": {
         "English": "A failed food production, raw and uncooked.",
 		"Russian": "Неудачное приготовление. Сырые и неготовые.",
-	"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş. Mantıya çok benzer.",
-	"Italian": "Una produzione alimentare fallita, cruda e non cotta."
+		"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş. Mantıya çok benzer.",
+		"Italian": "Una produzione alimentare fallita, cruda e non cotta."
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CookedPierogi": {
         "English": "Pierogies",
 		"Russian": "Вареники",
-	"Turkish": "Piergoies",
-	"Italian": "Pierogi"
+		"Turkish": "Piergoies",
+		"Italian": "Pierogi"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CookedPierogiDescription": {
         "English": "Pockets filled with potato and cheese. Delicious.",
 		"Russian": "Тесто, наполненное картофелем и сыром. Вкусно.",
-	"Turkish": "Patates ve peynirle doldurulmuş hamur. Lezzetli aynı mantı gibi",
-	"Italian": "Fagottini ripieni di patate e formaggio. Deliziosi."
+		"Turkish": "Patates ve peynirle doldurulmuş hamur. Lezzetli aynı mantı gibi",
+		"Italian": "Fagottini ripieni di patate e formaggio. Deliziosi."
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_UnCookedToastedSandwich": {
         "English": "Uncooked Toasted Sandwich",
 		"Russian": "Неготовый сэндвич",
-	"Turkish": "Pişmemiş Tost Sandviç",
-	"Italian": "Panino Tostato Non Cotto"
+		"Turkish": "Pişmemiş Tost Sandviç",
+		"Italian": "Panino Tostato Non Cotto"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_UnCookedToastedSandwichDescription": {
         "English": "A failed food production, raw and uncooked.",
 		"Russian": "Неудачное приготовление. Сырой и неготовый.",
-	"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş.",
-	"Italian": "Una produzione alimentare fallita, cruda e non cotta."
+		"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş.",
+		"Italian": "Una produzione alimentare fallita, cruda e non cotta."
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CookedToastedSandwich": {
         "English": "Toasted Sandwich",
 		"Russian": "Сэндвич с тостом",
-	"Turkish": "Sandviç Tost",
-	"Italian": "Panino Tostato"
+		"Turkish": "Sandviç Tost",
+		"Italian": "Panino Tostato"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CookedToastedSandwichDescription": {
         "English": "A crispy outside and a gooey inside. Goes well with soup.",
 		"Russian": "Хрустящий снаружи и тягучий внутри. Хорошо сочетается с супом.",
-	"Turkish": "Dışı çıtır çıtır, içi yapış yapış. Çorba ile iyi gider.",
-	"Italian": "Esterno croccante, interno appiccicoso. Si abbina bene con la zuppa."
+		"Turkish": "Dışı çıtır çıtır, içi yapış yapış. Çorba ile iyi gider.",
+		"Italian": "Esterno croccante, interno appiccicoso. Si abbina bene con la zuppa."
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_UnCookedPoutine": {
         "English": "Uncooked Poutine",
 		"Russian": "Непропеченный пути́н",
-	"Turkish": "Pişmemiş Poutine",
-	"Italian": "Poutine Non Cotto"
+		"Turkish": "Pişmemiş Poutine",
+		"Italian": "Poutine Non Cotto"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_UnCookedPoutineDescription": {
         "English": "A failed food production, raw and uncooked.",
 		"Russian": "Неудачное приготовление. Сырой и неготовый.",
-	"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş",
-	"Italian": "Una produzione alimentare fallita, cruda e non cotta."
+		"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş",
+		"Italian": "Una produzione alimentare fallita, cruda e non cotta."
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CookedPoutine": {
         "English": "Poutine",
 		"Russian": "Пути́н",
-	"Turkish": "Poutine",
-	"Italian": "Poutine"
+		"Turkish": "Poutine",
+		"Italian": "Poutine"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CookedPoutineDescription": {
         "English": "Fry-cut potatoes buried beneath cheese and gravy. Heavy, messy, and just what you need.",
 		"Russian": "Обжаренный картофель, посыпанный сыром и подливкой. Жирный, рассыпчатый и как раз то, что вам нужно",
-	"Turkish": "Peynir ve sosun altına gömülmüş kızarmış patatesler.Dağınık ve tam da ihtiyacınız olan şey.",
-	"Italian": "Patate fritte sepolte sotto formaggio e sugo. Pesante, disordinato, proprio quello che ti serve."
+		"Turkish": "Peynir ve sosun altına gömülmüş kızarmış patatesler.Dağınık ve tam da ihtiyacınız olan şey.",
+		"Italian": "Patate fritte sepolte sotto formaggio e sugo. Pesante, disordinato, proprio quello che ti serve."
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CheesePackage": {
         "English": "String Cheese",
 		"Russian": "Сыр-косичка",
-	"Turkish": "Telli Peynir",
-	"Italian": "Stringa di Formaggio"
+		"Turkish": "Telli Peynir",
+		"Italian": "Stringa di Formaggio"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CheesePackageDescription": {
         "English": "Individually wrapped and satisfying to peel apart.",
 		"Russian": "В индивидуальной упаковке. Разрезать их на части сплошное удовольствие.",
-	"Turkish": "Ayrı ayrı sarılmış ve soyulması tatmin edici.",
-	"Italian": "Avvolti singolarmente e soddisfacenti da staccare"
+		"Turkish": "Ayrı ayrı sarılmış ve soyulması tatmin edici.",
+		"Italian": "Avvolti singolarmente e soddisfacenti da staccare"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CocoaPackage": {
         "English": "Large Hot Cocoa Package",
 		"Russian": "Большая упаковка какао",
-	"Turkish": "Büyük Sıcak Kakao Paketi",
-	"Italian": "Grande Pacco di Cioccolata Calda"
+		"Turkish": "Büyük Sıcak Kakao Paketi",
+		"Italian": "Grande Pacco di Cioccolata Calda"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CocoaPackageDescription": {
         "English": "A large package of Hot Cocoa.",
 		"Russian": "Большая упаковка горячего какао.",
-	"Turkish": "Büyük bir paket sıcak kakao.",
-	"Italian": "Un grande pacco di cioccolata calda"
+		"Turkish": "Büyük bir paket sıcak kakao.",
+		"Italian": "Un grande pacco di cioccolata calda"
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CocoaPackage2": {
-    "English": "Small Hot Cocoa Package",
-	"Russian": "Маленькая упаковка какао",
-	"Turkish": "Küçük Sıcak Kakao Paketi",
-	"Italian": "Piccolo Pacco di Cioccolata Calda"
+   		"English": "Small Hot Cocoa Package",
+		"Russian": "Маленькая упаковка какао",
+		"Turkish": "Küçük Sıcak Kakao Paketi",
+		"Italian": "Piccolo Pacco di Cioccolata Calda"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CocoaPackage2Description": {
-    "English": "A small package of Hot Cocoa.",
-	"Russian": "Маленькая упаковка горячего какао.",
-	"Turkish": "Küçük bir paket sıcak kakao.",
-	"Italian": "Un piccolo pacco di cioccolata calda."
+    	"English": "A small package of Hot Cocoa.",
+		"Russian": "Маленькая упаковка горячего какао.",
+		"Turkish": "Küçük bir paket sıcak kakao.",
+		"Italian": "Un piccolo pacco di cioccolata calda."
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CerealHoneyPackage": {
-    "English": "Large Cereal Honey Package",
-    "Russian": "Большая упаковка хлопьев с медом",
-	"Turkish": "Büyük ballı tahıl paketi",
-	"Italian": "Grande Pacco di Cereali al Miele"
+    	"English": "Large Cereal Honey Package",
+    	"Russian": "Большая упаковка хлопьев с медом",
+		"Turkish": "Büyük ballı tahıl paketi",
+		"Italian": "Grande Pacco di Cereali al Miele"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CerealHoneyPackageDescription": {
-    "English": "A large package of Cereal Honey.",
-	"Russian": "Большая упаковка хлопьев с медом.",
-	"Turkish": "Büyük bir paket ballı tahıl.",
-	"Italian": "Un grande pacco di cereali al miele"
+    	"English": "A large package of Cereal Honey.",
+		"Russian": "Большая упаковка хлопьев с медом.",
+		"Turkish": "Büyük bir paket ballı tahıl.",
+		"Italian": "Un grande pacco di cereali al miele"
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CerealWholeGrainPackage": {
-    "English": "Large Cereal Whole Grain",
-    "Russian": "Большая упаковка хлопьев",
-	"Turkish": "Büyük Paket Tahıl Gevreği",
-	"Italian": "Grande Pacco di Cereali Integrali"
+    	"English": "Large Cereal Whole Grain",
+    	"Russian": "Большая упаковка хлопьев",
+		"Turkish": "Büyük Paket Tahıl Gevreği",
+		"Italian": "Grande Pacco di Cereali Integrali"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CerealWholeGrainPackageDescription": {
-    "English": "A large package of Cereal Whole Grain.",
-	"Russian": "Большая упаковка хлопьев из цельного зерна.",
-	"Turkish": " Büyük bir paket tam tahıl gevreği.",
-	"Italian": "Un grande pacco di cereali integrali"
+    	"English": "A large package of Cereal Whole Grain.",
+		"Russian": "Большая упаковка хлопьев из цельного зерна.",
+		"Turkish": " Büyük bir paket tam tahıl gevreği.",
+		"Italian": "Un grande pacco di cereali integrali"
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CornflakesPackage": {
-    "English": "Large Cornflakes Package",
-	"Russian": "Большая упаковка кукурузных хлопьев",
-	"Turkish": "Büyük Mısır Gevreği Paketi",
-	"Italian": "Grande pacco di Cornflakes"
+    	"English": "Large Cornflakes Package",
+		"Russian": "Большая упаковка кукурузных хлопьев",
+		"Turkish": "Büyük Mısır Gevreği Paketi",
+		"Italian": "Grande pacco di Cornflakes"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CornflakesPackageDescription": {
-    "English": "A large package of Cornflakes.",
-	"Russian": "Большая упаковка кукурузных хлопьев.",
-	"Turkish": "Büyük bir paket mısır gevreği.",
-	"Italian": "Un grande pacco di Cornflakes"
+    	"English": "A large package of Cornflakes.",
+		"Russian": "Большая упаковка кукурузных хлопьев.",
+		"Turkish": "Büyük bir paket mısır gevreği.",
+		"Italian": "Un grande pacco di Cornflakes"
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_EmptyPackage": {
-    "English": "Empty Package",
-	"Russian": "Пустая упаковка",
-	"Turkish": "Boş Paket",
-	"Italian": "Pacco Vuoto"
+    	"English": "Empty Package",
+		"Russian": "Пустая упаковка",
+		"Turkish": "Boş Paket",
+		"Italian": "Pacco Vuoto"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_EmptyPackageDescription": {
-    "English": "A small empty package. Can be used to package with other canned food or cereal boxes.",
-	"Russian": "Небольшая пустая упаковка. Можно использовать для упаковки других консервов или хлопьев в коробки.",
-	"Turkish": "Küçük boş bir paket. Diğer konserve veya tahıl kutuları ile paketlemek için kullanılabilir",
-	"Italian": "Un piccolo pacco vuoto. Può essere usato per impacchettare cibo in scatola o scatole di cereali"
+    	"English": "A small empty package. Can be used to package with other canned food or cereal boxes.",
+		"Russian": "Небольшая пустая упаковка. Можно использовать для упаковки других консервов или хлопьев в коробки.",
+		"Turkish": "Küçük boş bir paket. Diğer konserve veya tahıl kutuları ile paketlemek için kullanılabilir",
+		"Italian": "Un piccolo pacco vuoto. Può essere usato per impacchettare cibo in scatola o scatole di cereali"
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CerealHoneyPackage2": {
-    "English": "Small Cereal Honey Package",
-	"Russian": "Маленькая упаковка медовых хлопьев",
-	"Turkish": "Küçük Ballı Tahıl Paketi",
-	"Italian": "Piccolo Pacco di Cereali al Miele"
+    	"English": "Small Cereal Honey Package",
+		"Russian": "Маленькая упаковка медовых хлопьев",
+		"Turkish": "Küçük Ballı Tahıl Paketi",
+		"Italian": "Piccolo Pacco di Cereali al Miele"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CerealHoneyPackage2Description": {
-    "English": "A small package of Cereal Honey.",
-	"Russian": "Маленькая упаковка медовых хлопьев.",
-	"Turkish": "Küçük bir paket ballı tahıl.",
-	"Italian": "Un piccolo pacco di cereali al miele"
+    	"English": "A small package of Cereal Honey.",
+		"Russian": "Маленькая упаковка медовых хлопьев.",
+		"Turkish": "Küçük bir paket ballı tahıl.",
+		"Italian": "Un piccolo pacco di cereali al miele"
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CerealWholeGrainPackage2": {
-    "English": "Small Cereal Whole Grain",
-	"Russian": "Маленькая упаковка хлопьев",
-	"Turkish": "Küçük Paket Tahıl Gevreği",
-	"Italian": "Piccolo Pacco di Cereali Integrali"
+    	"English": "Small Cereal Whole Grain",
+		"Russian": "Маленькая упаковка хлопьев",
+		"Turkish": "Küçük Paket Tahıl Gevreği",
+		"Italian": "Piccolo Pacco di Cereali Integrali"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CerealWholeGrainPackage2Description": {
-    "English": "A small package of Cereal Whole Grain.",
-	"Russian": "Маленькая упаковка хлопьев из цельного зерна.",
-	"Turkish": "Küçük bir paket tam tahıllı gevrek",
-	"Italian": "Un piccolo pacco di cereali integrali"
+    	"English": "A small package of Cereal Whole Grain.",
+		"Russian": "Маленькая упаковка хлопьев из цельного зерна.",
+		"Turkish": "Küçük bir paket tam tahıllı gevrek",
+		"Italian": "Un piccolo pacco di cereali integrali"
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CornflakesPackage2": {
-    "English": "Small Cornflakes Package",
-	"Russian": "Маленькая упаковка кукурузных хлопьев",
-	"Turkish": "Küçük Mısır Gevreği Paketi",
-	"Italian": "Piccolo Pacco di Cornflakes"
+    	"English": "Small Cornflakes Package",
+		"Russian": "Маленькая упаковка кукурузных хлопьев",
+		"Turkish": "Küçük Mısır Gevreği Paketi",
+		"Italian": "Piccolo Pacco di Cornflakes"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CornflakesPackage2Description": {
-    "English": "A small package of Cornflakes.",
-	"Russian": "Маленькая упаковка кукурузных хлопьев.",
-	"Turkish": "Küçük bir paket mısır gevreği",
-	"Italian": "Un piccolo pacco di Cornflakes"
+    	"English": "A small package of Cornflakes.",
+		"Russian": "Маленькая упаковка кукурузных хлопьев.",
+		"Turkish": "Küçük bir paket mısır gevreği",
+		"Italian": "Un piccolo pacco di Cornflakes"
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CannedStewPackage": {
-    "English": "Large Canned Stews Package"
+    	"English": "Large Canned Stews Package"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CannedStewPackageDescription": {
-    "English": "A large package of Canned Stews."
+    	"English": "A large package of Canned Stews."
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CannedStewPackage2": {
-    "English": "Small Canned Stews Package"
+    	"English": "Small Canned Stews Package"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CannedStewPackage2Description": {
-    "English": "A small package of Canned Stews."
+    	"English": "A small package of Canned Stews."
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CannedSpaghettiPackage": {
-    "English": "Large Canned Spaghetti Package"
+    	"English": "Large Canned Spaghetti Package"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CannedSpaghettiPackageDescription": {
-    "English": "A large package of Canned Spaghetti."
+    	"English": "A large package of Canned Spaghetti."
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CannedSpaghettiPackage2": {
-    "English": "Small Canned Spaghetti Package"
+    	"English": "Small Canned Spaghetti Package"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CannedSpaghettiPackage2Description": {
-    "English": "A small package of Canned Spaghetti."
+    	"English": "A small package of Canned Spaghetti."
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CannedChiliPackage": {
-    "English": "Large Canned Chili Package"
+    	"English": "Large Canned Chili Package"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CannedChiliPackageDescription": {
-    "English": "A large package of Canned Chili."
+    	"English": "A large package of Canned Chili."
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_CannedChiliPackage2": {
-    "English": "Small Canned Chili Package"
+    	"English": "Small Canned Chili Package"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_CannedChiliPackage2Description": {
-    "English": "A small package of Canned Chili."
+    	"English": "A small package of Canned Chili."
+		"Traditional Chinese": "",
     },
 	"GAMEPLAY_RandomLargeCannedFood": {
         "English": "Random Large Canned Food",
@@ -1191,6 +1242,7 @@
         "Italian": "Grossa Confezione di Cibo in Scatola Casuale",
         "Simplified Chinese": "随机大罐头",
         "Japanese": "ランダム配置される缶詰（大）"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomLargeCannedFoodDescription": {
         "English": "A spawn point for large canned food items.",
@@ -1202,6 +1254,7 @@
         "Italian": "Punto di generazione perconfezioni di cibo in scatola di grandi dimensioni.",
         "Simplified Chinese": "大型罐头食品的刷新点。",
         "Japanese": "缶詰（大）の配置されるポイント。"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomMediumCannedFood": {
         "English": "Random Medium Canned Food",
@@ -1213,6 +1266,7 @@
         "Italian": "Confezione di Cibo in Scatola Casuale di Medie Dimensioni",
         "Simplified Chinese": "随机中等罐头食品",
         "Japanese": "ランダム配置される缶詰（中）"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomMediumCannedFoodDescription": {
         "English": "A spawn point for medium canned food items.",
@@ -1224,6 +1278,7 @@
         "Italian": "Punto di generazione per confezioni di cibo in scatola di medie dimensioni.",
         "Simplified Chinese": "中等罐头食品的刷新点。",
         "Japanese": "缶詰（中）の配置されるポイント"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomSodaTall": {
         "English": "Random Tall Soda Can",
@@ -1235,6 +1290,7 @@
         "Italian": "Bevanda in Lattina Alta Casuale",
         "Simplified Chinese": "随机高苏打罐",
         "Japanese": "ランダム配置される缶飲料"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomSodaTallDescription": {
         "English": "A spawn point for tall soda cans.",
@@ -1246,6 +1302,7 @@
         "Italian": "Punto di generazione per bevende in lattina alte.",
         "Simplified Chinese": "高汽水罐的刷新点。",
         "Japanese": "缶飲料の配置されるポイント。"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomSmallPacket": {
         "English": "Random Small Packet",
@@ -1257,6 +1314,7 @@
         "Italian": "Bustina Casuale",
         "Simplified Chinese": "随机小包",
         "Japanese": "ランダム配置される粉末飲料パック"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomSmallPacketDescription": {
         "English": "A spawn point for small food packets.",
@@ -1268,6 +1326,7 @@
         "Italian": "Punto di generazione per bustine di cibo.",
         "Simplified Chinese": "小食品包的刷新点。",
         "Japanese": "粉末飲料のパックが配置されるポイント"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomCerealBox": {
         "English": "Random Cereal Box",
@@ -1279,6 +1338,7 @@
         "Italian": "Scatola di Cereali Casuale",
         "Simplified Chinese": "随机麦片盒",
         "Japanese": "ランダム配置されるシリアルの箱"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomCerealBoxDescription": {
         "English": "A spawn point for cereal boxes.",
@@ -1290,6 +1350,7 @@
         "Italian": "Punto di generazione per le scatole di cereali.",
         "Simplified Chinese": "谷物盒的生成点。",
         "Japanese": "シリアルの箱の配置されるポイント。"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomLiquorBottle": {
         "English": "Random Liquor Bottle",
@@ -1301,6 +1362,7 @@
         "Italian": "Bottiglia di Liquore Casuale",
         "Simplified Chinese": "随机酒瓶",
         "Japanese": "ランダム配置される酒瓶"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_RandomLiquorBottleDescription": {
         "English": "A spawn point for liquor bottles.",
@@ -1312,11 +1374,13 @@
         "Italian": "Punto di generazione per bottiglie di liquore.",
         "Simplified Chinese": "酒瓶的刷新点。",
         "Japanese": "酒瓶の配置されるポイント。"
+		"Traditional Chinese": "",
     },
     "GAMEPLAY_NOTE_TITL": {
         "English": "Note from a Quonset Gas Station Employee",
         "French (France)": "Note d'un employé de la station-service Quonset",
         "Japanese": "クォンセット・ガレージ従業員のメモ。",
+		"Traditional Chinese": "",
         "German": "Notiz eines Angestellten der Quonset-Tankstelle",
         "Russian": "Записка от работника заправки Квонсета",
         "Spanish (Spain)": "Nota de un trabajador del taller Quonset",
@@ -1327,6 +1391,7 @@
         "English": "A note written by an employee at the Gas Station Employee.",
         "French (France)": "Note écrit par un employé de la station-service Quonset",
         "Japanese": "クォンセット・ガレージ従業員の一人により書かれたメモ。",
+		"Traditional Chinese": "",
         "German": "Eine Notiz, die von einem Angestellten der Tankstelle verfasst wurde.",
         "Russian": "Записка, оставленная работником заправки Квонсета.",
         "Spanish (Spain)": "Una nota escrita por un trabajador del taller Quonset.",
@@ -1339,6 +1404,7 @@
         "German": "Zwölf Müslischachteln, vier Honiggläser und ein paar Packungen... Wodkaflaschen? Ich muss diese Waren aus von meinem örtlichen Händler importieren, dessen Spitzname 'Kai' lautet, was auch immer das bedeutet. Er kommt selten vorbei. Es wird Wochen, wenn nicht sogar Monate dauern. Außerdem, was zum Teufel ist da draußen los? Es gibt keinen Strom, keine Kommunikation von außen. Wie zum Teufel soll ich meine Vorräte auffüllen?\n\nWenn ich nur mit dem alten Mann im Bauernhaus im Idyllischen Tal kommunizieren könnte... Er ist ein kompletter Idiot, gibt aber recht gutes Trinkgeld, auch wenn er es überhaupt nicht muss.\n\n\nFür den Moment gehe ich nach Hause.\n\n*hier wäre eine Signatur zu sehen; 'G. Chalkias'.",
         "Russian": "Двенадцать коробок с хлопьями, четыре банки с медом и пара упаковок... бутылок водки? Я должен импортировать эти товары у моего местного дилера под прозвищем «Кай», что бы это ни значило. Он редко заходит, и на это уйдут недели, если не месяцы. Кроме того, что, черт возьми, там происходит? Нет электричества, нет связи с внешним миром. Как, черт возьми, мне пополнять запасы? \n\nЕсли бы я только мог связаться со стариком с фермы в Приятной долине... Он полный придурок, но довольно хорошо дает на чай, хотя в этом нет никакой необходимости. \n\n\nПока что пойду-ка я домой. \n\n* здесь должна быть подпись; 'Г. Халкия'.",
         "Japanese": "シリアル12箱、ハチミツの瓶が4箱、そしてウオッカ？のパッケージが二つ。私はこれらの品物を「カイ」と呼ばれている地元の業者から入手している。彼は滅多に来ないから、入手には数週間はかかるだろう。その上、一体全体何がここで起こっているのか？ここには電力も、島外との通信も何一つない。物資の補充はどうすればいいんだ？\n\nもしプレザント・バレー農場の主人と話せたなら……彼はどうしようもないバカだがこの手のことはよく心得ている、たとえ、彼にそうする義務が一切なかったとしてもだ。\n\n\nひとまず、家に帰るつもりだ。\n\n*ここに署名がある。 'G.ハルキアス' ",
+		"Traditional Chinese": "",
         "Spanish (Spain)": "Doce cajas de cereales, cuatro tarros de miel, y un par de paquetes de... ¿Botellas de vodka? Tengo que importar esta mercancía a través de mi distribuidor local cuyo apodo es 'Kai', lo que sea que signifique eso. Raramente se pasa por aquí, le va a llevar semanas, meses incluso. Además ¿Qué cojones está pasando ahí fuera? No hay luz, ni comunicación de fuera. ¿Cómo demonios voy a reponer todo esto? \n\n Si pudiese comunicarme con el anciano de la granja en Valle Apacible... Es un gilipollas de cuidado pero deja buena propina, teniendo en cuenta que ni siquiera hace falta. \n\n\nPor ahora, me voy a casa. \n\n*Se puede ver una firma a pie de página; 'G. Chalkias'.",
         "Turkish" : "On iki mısır gevreği kutusu, dört bal kavanozu ve birkaç paket... votka şişesi? Bu malları, takma adı 'Kai' olan yerel satıcımdan ithal etmeliyim, bu ne anlama geliyorsa. Nadiren uğrar, aylar olmasa da haftalar alır. Ayrıca, orada neler oluyor? Güç yok, dışarıdan iletişim yok. Nasıl stok yapacağım? \n\nKeşke Pleasant Valley Çiftlik Evi'ndeki Yaşlı Adam'la iletişim kurabilseydim... O tam bir sik kafalı ama buna hiç gerek olmadığı halde oldukça iyi bahşiş veriyor. \n\n\nŞimdilik eve gideceğim. \n\n*burada bir imza görülecektir; 'G. Chalkias'.",
         "Italian": "Dodici scatole di cereali, quattro barattoli di miele e un paio di pacchetti di... bottigle di vodka? Devo importare questi beni dal mio rivenditore locale di cui il soppranome va di 'Kai' qualsiasi cosa significa. Lui raramente passa, ci vorranno settimane se non mesi. Oltretutto, cosa diavolo sta succedendo là fuori? Non c'è corrente, nessuna communicazione dall'esterno. Come diavolo farò il rifornimetno? \n\nSe solo potessi communicare con il Vecchio della Fattoria Pleasant Valley... È uno stronzo ma le sue mancie sono buone, anche se non deve farlo per forza. \n\n\n Per ora, andrò a casa. \n\n*Si vede una firma; 'G. Chalkias'."
@@ -1347,6 +1413,7 @@
         "English": "Note from a Rural Store Employee",
         "French (France)": "Note d'un employé d'un magasin rural",
         "Japanese": "田舎の商店の従業員のメモ。",
+		"Traditional Chinese": "",
         "German": "Notiz eines Angestellten des örtlichen Ladens",
         "Russian": "Записка от работника сельского магазина",
         "Spanish (Spain)": "Nota de un empleado de una tienda rural",
@@ -1357,6 +1424,7 @@
         "English": "A note written by an employee at the Rural Store.",
         "French (France)": "Note ecrit par un employé d'un magasin rural.",
         "Japanese": "田舎の商店の従業員の一人により書かれたメモ。",
+		"Traditional Chinese": "",
         "German": "Eine Notiz, die von einem Angestellten des örtlichen Ladens verfasst wurde.",
         "Russian": "Записка, написанная работником сельского магазина.",
         "Spanish (Spain)": "Una nota escrita por un empleado de la tienda del Valle Apacible.",
@@ -1369,6 +1437,7 @@
         "German": "Ein zwielichtiger Typ ist gerade vorbeigekommen und hat mir erzählt, dass mein Vorrat an Thunfischdosen Wölfe verscheucht? Ich bin mir nicht sicher, was er vorhatte, aber wir haben hier keine Wölfe. Allerdings hörte ich von Zeit zu Zeit ihr Heulen, was mir seltsam vorkam, da sie sich selten oder nie einer Siedlung nähern.\n\nJedenfalls bin ich mir nicht sicher, was mein Kollege da unten in der Küstenstraße macht, aber der alte Mann hat sich darüber beschwert, dass seine Bedürfnisse nicht erfüllt werden, dass er nicht genug alkoholische Getränke bekommt? Was für ein seltsamer Mensch, er sollte stattdessen in einem Kindergarten sein.\n\n\nAus irgendeinem Grund ist meine Lieferung noch nicht angekommen. Kein Wunder, da der Strom schon seit ein paar Tagen ausfällt und ich mir einen Notstromgenerator besorgt habe. Ich hoffe, er kommt früh genug.\nIch werde einem anderen Kollegen in der Gebirgsstadt einen Besuch abstatten und sehen, wie es ihm geht.",
         "Russian": "Только что зашел подозрительный тип и сказал мне, что моя банка тунца отпугивает... волков? Не знаю, о чем он вообще говорил, но у нас здесь нет волков. Однако иногда я слышал их вой, что казалось мне странным, потому что они редко, если вообще когда-либо приближались к поселениям. \n\nВ любом случае, я не уверен, что мой коллега делает там, на Прибрежном шоссе, но Старик жалуется на то, что все-то ему не хватает, и еще что-то про то, что ему не хватает спиртного? Такой странный человек, в ясли бы его. \n\n\nПочему-то моя посылка еще не пришла. Неудивительно, так как электричество отключилось на несколько дней, а у меня есть запасной генератор. Надеюсь, она скоро придет. \nЯ собираюсь навестить другого своего коллегу в Горном городе и посмотреть, как он держится.",
         "Japanese": "ついさっき立ち寄った怪しい男がうちのツナ缶がやつら（……狼？）を追い払ってるのだ、と言っていた。その通りだとは思えないが、我々がこのあたりで狼に出くわしてないのは確かだ。けれども、あいつらの吠え声を時々聞くこと自体は奇妙なことに思える。なぜなら、連中が住宅地に近づくことは皆無ではないが滅多にないことだからだ。\n\nそれはそうと、沿岸のハイウェイで仕事をしている私の同僚に用事がある（酒が十分手に入らないことについてだろうか？）のに会えない、と農場主が愚痴っていたことについては同意できない。変人め、それより苗床の様子でも見ているべきだ。\n\n\n諸々の事情により私の貨物はいまだ到着していない。数日間にわたる停電を経験し、非常用発電機を入手することになった今では驚くようなことではない。だが私は貨物が速やかに届くであろうことを願っている。\n私はこれから山間の町へ行ったもう一人の同僚のもとを訪れて、支払いと彼の難渋している状況を確かめるつもりだ。",
+		"Traditional Chinese": "",
         "Spanish (Spain)": "Un tipo un poco turbio acaba de venir para decirme que mis latas de atún asusta... a qué ¿Lobos?. No sé de que iba pero aquí no hay lobos. Aunque, me parece haber escuchado sus aullidos de vez en cuando, lo cual me parece un poco raro ya que raramente se acercan aquí. \n\nEn cualquier caso, no sé que estará haciendo mi compañero en la Autovía Litoral, pero el anciano se ha estado quejando de que sus necesidades no están cubiertas ¿Algo sobre que no está recibiendo suficientes bebidas alcohólicas, o algo así? Que persona más extraña, debería estar en una residencia. \n\n\nPor alguna razón my cargamento no ha llegado todavía. Tampoco es una sorpresa porque la electricidad lleva cortada unos días y tengo un generador de emergencia. Espero que venga lo antes posible. \nVoy a hacerle una visita a mi compañera en Milton, a ver cómo le va.",
         "Turkish" : "Az önce gölgeli bir adam uğradı ve ton balığı konservemin korkuttuğunu söyledi, hangi kurtlar? Ne kullandığından emin değilim ama buralarda kurt yok. Bununla birlikte, zaman zaman ulumalarını duydum, bu bana garip geldi çünkü yerleşim yerlerine nadiren yaklaşırlar, hatta hiç yaklaşmazlar. \n\nHer neyse, meslektaşımın Sahil Yolu'nda ne yaptığından emin değilim ama Yaşlı Adam ihtiyaçlarının karşılanmadığından, yeterince alkollü içki almadığından şikayet ediyor? Ne tuhaf bir insan, onun yerine çocuk odasında olmalı. \n\n\nNedense kargom henüz ulaşmadı. Güç birkaç gündür kesildiğinden ve bir yedek jeneratör aldığımdan beri sürpriz değil. Umarım yakında gelir. \nMountain Town'daki başka bir meslektaşımı ziyaret edeceğim ve nasıl dayandığına bakacağım.",
         "Italian": "Un tipo sospettoso è appena passato e mi ha detto che le mie lattine di tonno spaventano via, cosa, lupi? Non sono certo su cosa intende ma non abbiamo lupi da queste parti. Però, ho sentito il loro ululare di volta in volta il che appare strano per me siccome loro raramente se mai si avvicinano agli insediamenti. \n\nComunque, non sono sicuro cosa il mio collega sta facendo lì nell'Autostrada Costiera, ma il Vecchio si è lamentato di qualcosa riguardante i sui bisogni non soddisfati, qualcosa a proposito di non aver ricevuto abbastanta bevande alcoliche? Che persona strana, dovrebbe invece essere in un asilo nido. \n\n\nPer qualche motivo la mia spedizione non è ancora arrivata. Non mi sorprende visto che la corrente è assente già da qualche giorno e ho un generatore di riserva. Spero che arrivi abbastanza presto. \nAndrò a visitare un'altro mio collega su nel Villaggio di Montagna a vedere come se la cava."
@@ -1377,6 +1446,7 @@
         "English": "Note from a Convenience Store Employee",
         "French (France)": "Note d'un employé de dépanneur",
         "Japanese": "コンビニ従業員のメモ",
+		"Traditional Chinese": "",
         "German": "Noitz eines Angestellten des Gemischwarenladens",
         "Russian": "Записка от работника минимаркета",
         "Spanish (Spain)": "Nota de una empleada de una tienda de ultramarinos",
@@ -1387,6 +1457,7 @@
         "English": "A note written by an employee at the Convenience Store",
         "French (France)": "Note ecrit par un employé de dépanneur",
         "Japanese": "コンビニ従業員の一人により書かれたメモ",
+		"Traditional Chinese": "",
         "German": "Eine Noitz, die von einem Angestellten des Gemischtwarenladens verfasst wurde",
         "Russian": "Записка, оставленная работником минимаркета",
         "Spanish (Spain)": "Una nota escrita por una empleada de la tienda de ultramarinos de Milton",
@@ -1397,6 +1468,7 @@
         "English": "I just delivered ten stocks of twenty cans and plastics of Forsaken Spirits drinks, a supply order from Mr. Smith at Forsaken Hangar. \nAre they crazy or addicted to this drink? Yeah, the brand happened to share the name of that airport 'Forsaken Airfield' but they are overdoing it. I'm almost out of Forsaken Spirits stock and I don't know when I'll get my next delivery because of this stupid power outage. \n\nThis old hag is pestering me about her boxes of hot cocoa running out as if I care enough about that on top of the supply problems I got right now. \n\n\nMaybe I should ask my old pal, Chalkias, to share some of his goods in the meantime.",
         "French (France)": "I just delivered ten stocks of twenty cans and plastics of Forsaken Spirits drinks, a supply order from Mr. Smith at Forsaken Hangar. \nAre they crazy or addicted to this drink? Yeah, the brand happened to share the name of that airport 'Forsaken Airfield' but they are overdoing it. I'm almost out of Forsaken Spirits stock and I don't know when I'll get my next delivery because of this stupid power outage. \n\nThis old hag is pestering me about her boxes of hot cocoa running out as if I care enough about that on top of the supply problems I got right now. \n\n\nMaybe I should ask my old pal, Chalkias, to share some of his goods in the meantime.",
         "Japanese": "フォーセイクン飛行場のスミス氏から注文があった『フォーセイクン・スピリット』の缶とボトルが20個入った箱10個を届けてきた。\n彼らは狂っているのか、それともアルコール依存症になってしまったのか？うん、この銘柄と飛行場の名前『フォーセイクン飛行場』が偶然一致したからだろう、だけどやりすぎではある。これでフォーセイクン・スピリットの在庫は完売、次の配達がいつになるかはあの馬鹿げた停電のせいでわからない。\n\n彼女のココアの箱が品切れしかけていることに文句を言っている婆さんは、私が供給問題の中でこのことを優先して気にかけていれば問題を解決できるとでも言わんばかりだ。\n\n\nもしかすると、そのうち旧友のハルキアスに彼の手持ちの物資をいくらか融通してもらえるように頼まなければならないかもしれない。",
+		"Traditional Chinese": "",
         "German": "Ich habe gerade zehn Vorratskisten mit zwanzig Dosen und Plastikflaschen von Forsaken Spirits-Getränken geliefert, eine Nachschubbestellung von Mr. Smith im verlassenen Hangar.\nSind sie verrückt oder süchtig nach diesem Getränk? Ja, die Marke teilt zufällig den Namen dieses Flughafens 'Forsaken Airfield', aber sie übertreiben es. Mein Vorrat an Forsaken Spirit-Getränken ist fast aufgebraucht und ich weiß aufgrund dieses dummen Stromausfalls nicht, wann ich meine nächste Lieferung bekomme.\n\nDiese alte Hexe belästigt mich damit, dass ihre Schachteln mit heißem Kakao zur Neige gehen, als wäre mir das zusätzlich zu den Versorgungsproblemen, die ich gerade habe, wichtig.\n\n\nVielleicht sollte ich meinen alten Kumpel Chalkias bitten, in der Zwischenzeit einige seiner Waren zu teilen.",
         "Russian": "Я только что доставил десять комплектов из двадцати банок и пластиковых бутылок напитка 'Покинутые духи' по заказу мистера Смита из Покинутого ангара. \nОни там с ума сошли или пристрастились к этому напитку? Да, бренд случайно назвал напиток 'покинутым', как и этот аэродром, но это они переусердствовали. У меня почти закончились запасы 'Покинутых духов', и я не знаю, когда получу следующую доставку из-за этого дурацкого отключения электричества. \n\nЭта старая ведьма пристает ко мне из-за того, что у нее заканчиваются коробки с какао. Как будто меня это волнует, в придачу со всеми другими проблемами с поставками. \n\n\nМожет быть, мне стоит попросить моего старого приятеля Халкия поделиться чем-нибудь из его товаров.",
         "Spanish (Spain)": "Acabo de enviar diez reservas de veinte latas y botellas de Espíritus Olvidados, una petición del señor Smith, el del Aeródromo Olvidado. \n ¿Están majaras o adictos a esta mierda? Sí, da la casualidad que la el nombre de la marca se parece al del aeródromo y tal, pero creo que se están`pasando. Ya casi no me quedan reservas de Espíritus Olvidados I no tengo ni idea de cuando llega el siguiente paquete por culpa del puñetero corte de luz. \n\nLa vieja arpía esta me está tocando las narices con que su reserva de cacao se está acabando, como si me importase lo más mínimo, teniendo en cuenta el resto de problemas que tengo ahora. \n\n\nQuizás le pregunte a mi viejo amigo, Chalkias, a ver si puede compartir de lo suyo mientras tanto.",
@@ -1407,6 +1479,7 @@
         "English": "Note from the Old Man.",
         "French (France)": "Note d'un homme vieux.",
         "Japanese": "農場主のメモ",
+		"Traditional Chinese": "",
         "German": "Notiz des alten Mannes",
         "Russian": "Записка Старика",
         "Spanish (Spain)": "Nota de un anciano",
@@ -1417,6 +1490,7 @@
         "English": "A note written by the Old Man. It is stained in blood",
         "French (France)": "Note ecrit par l'homme vieux. Il et teché de sang",
         "Japanese": "プレザント・バレー農場の農場主が書いたメモ。血がにじんでいる。",
+		"Traditional Chinese": "",
         "German": "Eine Notiz, die der alte Mann verfasst hat. Sie ist blutgetränkt.",
         "Russian": "Записка Старика. На записке видны пятна крови.",
         "Spanish (Spain)": "Nota escrita por un anciano. Está cubierta de sangre.",
@@ -1427,6 +1501,7 @@
         "English": "I should have never ordered a huge amount of cereal boxes and vodka bottles when I keep forgetting to buy bandages. The nearest store ran out of them so I gotta head to Blackrock, they got the only infirmary in this cursed island. \n\nSpeaking of, since when do wolves attack people on sight now? One of them bit on my hand and it's looking bad! I can't stop the bleeding well enough... Better go fast. \n\n\nIf you find this note, do whatever you want. When the power is back, I'm flying back to Florida. \n\nAt least I'll be dealing with crazed people than wolves and the occasional bear or moose.",
         "French (France)": "I should have never ordered a huge amount of cereal boxes and vodka bottles when I keep forgetting to buy bandages. The nearest store ran out of them so I gotta head to Blackrock, they got the only infirmary in this cursed island. \n\nSpeaking of, since when do wolves attack people on sight now? One of them bit on my hand and it's looking bad! I can't stop the bleeding well enough... Better go fast. \n\n\nIf you find this note, do whatever you want. When the power is back, I'm flying back to Florida. \n\nAt least I'll be dealing with crazed people than wolves and the occasional bear or moose.",
         "Japanese": "包帯を買い忘れた代わりに手に入れてしまったのは頼むつもりなどない大量のシリアルの箱とウオッカの瓶だった。最寄りの店があいつらのせいで使えなくなった以上、この呪われた島で唯一の診療所があるブラックロックへ向かうしかない。\n\n狼たちが見つけ次第人々を襲い始めたことについて言うこと？奴らの一匹が私の手に噛みついて酷い怪我を負わせた！出血を完全に止められない……早く何とかしないと。\n\n\nもし君がこのメモを見つけたなら、好きにしてくれ。元気になったらフロリダに帰る。\n\n狼やたまに現れるクマやヘラジカより、馬鹿であっても人間と付き合いたい。",
+		"Traditional Chinese": "",
         "German": "Ich hätte nie eine große Menge Müslischachteln und Wodkaflaschen bestellen sollen, wenn ich immer wieder vergesse, Verbandsmaterial zu kaufen. Im nächsten Laden sind sie ausgegangen, also muss ich nach Schwarzfels fahren, dort gibt es die einzige Krankenstation auf dieser verfluchten Insel. \n\nApropos, seit wann greifen Wölfe Menschen an, wenn sie sie sehen? Einer davon hat mir in die Hand gebissen und es sieht schlimm aus! Ich kann die Blutung nicht gut genug stoppen... Es ist besser, schnell zu gehen. \n\n\nWenn jemand diese Notiz findet, tun Sie, was Sie wollen. Wenn der Strom wieder da ist, fliege ich zurück nach Florida. \n\nZumindest werde ich es mit verrückten Menschen zu tun haben, nicht mehr mit Wölfen, dem einen oder anderen Bären oder Elch.",
         "Russian": "Не стоило мне заказывать столько коробок с хлопьями и бутылок водки, когда я все время забываю купить бинты. В ближайшем магазине они закончились, так что мне нужно отправиться в Блэкрок, там единственный лазарет на этом проклятом острове. \n\nКстати, с каких это пор волки нападают на людей, как только увидят? Один из них укусил меня за руку, и выглядит это дело плохо! Я не могу полностью остановить кровотечение... Надо бы поторопиться. \n\n\nЕсли вы найдете эту записку, делайте, что хотите. Когда электричество вернется, я лечу обратно во Флориду. \n\nПо крайней мере, я буду иметь дело с сумасшедшими, а не с волками и медведями или лосями время от времени.",
         "Spanish (Spain)": "Jamás debería haber encargado tal cantidad de cajas de cereales y botellas de vodka cuando sigo olvidándome de comprar vendas. La tienda más cercana se ha quedado sin, así que tendré que ir a Rocanegra, ya que es el único lugar en esta maldita isla donde tienen una enfermería. \n\nHablando de eso ¿Desde cuándo los lobos atacan a la gente nada más verlos? ¡Uno me mordió en la mano y no tiene buena pinta! No puedo detener la hemorragia muy bien... más me vale ir rápido. \n\n\nSi encuentras esta nota, haz lo que te de la gana. Cuando vuelva la luz, me vuelvo a Florida. \n\nAl menos lidiaré con locos, y no con lobos, o el ocasional oso o alce.",
