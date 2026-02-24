@@ -1242,7 +1242,7 @@
         "Italian": "Grossa Confezione di Cibo in Scatola Casuale",
         "Simplified Chinese": "随机大罐头",
         "Japanese": "ランダム配置される缶詰（大）"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "隨機大型罐頭食物",
     },
     "GAMEPLAY_RandomLargeCannedFoodDescription": {
         "English": "A spawn point for large canned food items.",
@@ -1254,7 +1254,7 @@
         "Italian": "Punto di generazione perconfezioni di cibo in scatola di grandi dimensioni.",
         "Simplified Chinese": "大型罐头食品的刷新点。",
         "Japanese": "缶詰（大）の配置されるポイント。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "大型罐頭食物的生成點。",
     },
     "GAMEPLAY_RandomMediumCannedFood": {
         "English": "Random Medium Canned Food",
@@ -1266,7 +1266,7 @@
         "Italian": "Confezione di Cibo in Scatola Casuale di Medie Dimensioni",
         "Simplified Chinese": "随机中等罐头食品",
         "Japanese": "ランダム配置される缶詰（中）"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "隨機中型罐頭食物",
     },
     "GAMEPLAY_RandomMediumCannedFoodDescription": {
         "English": "A spawn point for medium canned food items.",
@@ -1278,7 +1278,7 @@
         "Italian": "Punto di generazione per confezioni di cibo in scatola di medie dimensioni.",
         "Simplified Chinese": "中等罐头食品的刷新点。",
         "Japanese": "缶詰（中）の配置されるポイント"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "中型罐頭食物的生成點。",
     },
     "GAMEPLAY_RandomSodaTall": {
         "English": "Random Tall Soda Can",
@@ -1290,7 +1290,7 @@
         "Italian": "Bevanda in Lattina Alta Casuale",
         "Simplified Chinese": "随机高苏打罐",
         "Japanese": "ランダム配置される缶飲料"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "隨機高罐裝汽水",
     },
     "GAMEPLAY_RandomSodaTallDescription": {
         "English": "A spawn point for tall soda cans.",
@@ -1302,7 +1302,7 @@
         "Italian": "Punto di generazione per bevende in lattina alte.",
         "Simplified Chinese": "高汽水罐的刷新点。",
         "Japanese": "缶飲料の配置されるポイント。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "高罐裝汽水的生成點。",
     },
     "GAMEPLAY_RandomSmallPacket": {
         "English": "Random Small Packet",
@@ -1314,7 +1314,7 @@
         "Italian": "Bustina Casuale",
         "Simplified Chinese": "随机小包",
         "Japanese": "ランダム配置される粉末飲料パック"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "隨機小型包裝食物",
     },
     "GAMEPLAY_RandomSmallPacketDescription": {
         "English": "A spawn point for small food packets.",
@@ -1326,7 +1326,7 @@
         "Italian": "Punto di generazione per bustine di cibo.",
         "Simplified Chinese": "小食品包的刷新点。",
         "Japanese": "粉末飲料のパックが配置されるポイント"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "小型包裝食物的生成點。",
     },
     "GAMEPLAY_RandomCerealBox": {
         "English": "Random Cereal Box",
@@ -1338,7 +1338,7 @@
         "Italian": "Scatola di Cereali Casuale",
         "Simplified Chinese": "随机麦片盒",
         "Japanese": "ランダム配置されるシリアルの箱"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "隨機穀物盒",
     },
     "GAMEPLAY_RandomCerealBoxDescription": {
         "English": "A spawn point for cereal boxes.",
@@ -1350,7 +1350,7 @@
         "Italian": "Punto di generazione per le scatole di cereali.",
         "Simplified Chinese": "谷物盒的生成点。",
         "Japanese": "シリアルの箱の配置されるポイント。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "穀物盒的生成點。",
     },
     "GAMEPLAY_RandomLiquorBottle": {
         "English": "Random Liquor Bottle",
@@ -1362,7 +1362,7 @@
         "Italian": "Bottiglia di Liquore Casuale",
         "Simplified Chinese": "随机酒瓶",
         "Japanese": "ランダム配置される酒瓶"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "隨機酒瓶",
     },
     "GAMEPLAY_RandomLiquorBottleDescription": {
         "English": "A spawn point for liquor bottles.",
@@ -1374,7 +1374,7 @@
         "Italian": "Punto di generazione per bottiglie di liquore.",
         "Simplified Chinese": "酒瓶的刷新点。",
         "Japanese": "酒瓶の配置されるポイント。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "酒瓶的生成點。",
     },
     "GAMEPLAY_NOTE_TITL": {
         "English": "Note from a Quonset Gas Station Employee",
